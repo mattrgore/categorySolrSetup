@@ -1,0 +1,4309 @@
+Accessory, Boy's
+http://localhost:8983/solr/category/select?wt=json&q=%20SUNGLASSES%20GUCCI
+Original Description:  SUNGLASSES GUCCI
+result= Sunglasses
+| depcat: HANDBAGS, PURSES, WALLETS & ACCESSORIES
+result= Eyeglass Case
+| depcat: MEDICAL & OPTICAL CARE EQUIPMENT
+result= Sneakers, Women's
+| depcat: FOOTWEAR
+result= Ottoman
+| depcat: CLOCKS
+result= Belt, Girl's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Money Clip
+| depcat: HANDBAGS/PURSES/WALLETS
+result= Loafers, Men's
+| depcat: FOOTWEAR
+result= Blouse, Girl's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Perfume
+| depcat: HANDBAGS, PURSES, WALLETS & ACCESSORIES
+result= Messenger Bag
+| depcat: LUGGAGE
+http://localhost:8983/solr/category/select?wt=json&q=%20CEDAR%20CHEST
+Original Description:  CEDAR CHEST
+result= Blanket Chest
+| depcat: FURNITURE - HARD/WOOD/METAL
+result= Storage Chest
+| depcat: HOUSEWARES
+result= Chest of Drawers
+| depcat: FURNITURE
+result= Freezer
+| depcat: APPLIANCES - MAJOR KITCHEN & LAUNDRY
+result= Dust Pan
+| depcat: HOUSEWARES
+result= Tool Chest
+| depcat: TOOLS - HAND TOOLS & TOOL STORAGE
+result= Non-Fine Oil Framed Painting
+| depcat: ART - DECORATIVE ART
+result= Scuba Wader
+| depcat: SPORTING GOODS
+result= Cooler
+| depcat: KITCHENWARE - DINNERWARE, GLASSWARE & FOOD STORAGE
+result= Outdoor Swing
+| depcat: FURNITURE - LAWN
+http://localhost:8983/solr/category/select?wt=json&q=%20ALLOWANCE%20BIRTHDAY%20DECORATIONS
+Original Description:  ALLOWANCE BIRTHDAY DECORATIONS
+result= Candle, Holiday
+| depcat: HOUSEWARES
+result= Holiday Decorations
+| depcat: KITCHENWARE - DINNERWARE, GLASSWARE & FOOD STORAGE
+result= Digeridoo
+| depcat: MUSICAL INSTRUMENTS
+result= Wreath Outdoor
+| depcat: HOUSEWARES
+result= Small Pet - Pet Memorials
+| depcat: PET CARE
+result= Power Boat Accessory
+| depcat: BOATING EQUIPMENT & SUPPLIES
+result= Greeting Cards
+| depcat: COLLECTIBLES
+result= Air Tank
+| depcat: TOOLS - POWER
+result= Baby Doorway Jumper
+| depcat: BABY & INFANT CARE
+result= Viola
+| depcat: MUSICAL INSTRUMENTS
+http://localhost:8983/solr/category/select?wt=json&q=%20DAP%20LATEX%20CHALK
+Original Description:  DAP LATEX CHALK
+result= Caulk Tube
+| depcat: TOOLS - HAND TOOLS & TOOL STORAGE
+result= Chalk Board
+| depcat: OFFICE EQUIPMENT
+result= Measuring Tool
+| depcat: TOOLS – HAND TOOLS/ TOOL STORAGE
+result= Gloves, Medical
+| depcat: MEDICAL SUPPLIES - COMMERCIAL
+result= Tape Measure
+| depcat: TOOLS - HAND TOOLS & TOOL STORAGE
+result= Joint Compound
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+result= Indoor Paint
+| depcat: OFFICE SUPPLIES & STATIONARY
+result= Outdoor Paint
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+result= Plumbing Putty
+| depcat: CONSTRUCTION SUPPLIES
+result= Paint Brush
+| depcat: TOOLS - HAND TOOLS & TOOL STORAGE
+http://localhost:8983/solr/category/select?wt=json&q=%20COVER%20BOOK%20ISBN%20078520900X
+Original Description:  COVER BOOK ISBN 078520900X
+result= Book Hardcover
+| depcat: BOOKS - HARDCOVER, PAPERBACK & MAGAZINE
+result= Other Book or Magazine
+| depcat: BOOKS - HARDCOVER, PAPERBACK & MAGAZINE
+result= Address Book
+| depcat: OFFICE SUPPLIES & STATIONARY
+result= Book Softcover
+| depcat: BOOKS - HARDCOVER, PAPERBACK & MAGAZINE
+result= Textbook
+| depcat: BOOKS - PROFESSIONAL, REFERENCE & TEXTBOOK
+result= Auto Powertrain - Manual Transmission
+| depcat: AUTOMOTIVE PARTS/ACCESSORIES
+result= Bird - Books and Media
+| depcat: COLLECTIBLES
+result= Check Book
+| depcat: CASH, SECURITIES, CREDIT CARDS, DOCUMENTS
+result= Dog - Auto Travel
+| depcat: PET EQUIPMENT
+result= Window Well
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+http://localhost:8983/solr/category/select?wt=json&q=%20ALUMINUM%20SELFIE%20STICK%20PREMIUM%20QUALITY%20BLUETOOTH%20VERSION%20ZIVACHI%20ZIX-2015B
+Original Description:  ALUMINUM SELFIE STICK PREMIUM QUALITY BLUETOOTH VERSION ZIVACHI ZIX-2015B
+result= Ice Hockey Stick
+| depcat: SPORTS AND RECREATION
+result= Scaffold
+| depcat: CONSTRUCTION EQUIPMENT & MACHINERY
+result= Walking Cane
+| depcat: DRUG/HEALTH/BEAUTY
+result= Pot and Pan Set
+| depcat: KITCHENWARE - COOKWARE, FLATWARE & CUTLERY
+result= Pizza Tray
+| depcat: KITCHENWARE - COOKWARE, FLATWARE & CUTLERY
+result= Baking Form or Mold
+| depcat: FOOD/GROCERY
+result= Baby Stroller
+| depcat: BABY CARE
+result= Auto Care and Fluids - Cleaners
+| depcat: AUTOMOBILE PARTS & ACCESSORIES
+result= Headset
+| depcat: AUDIO EQUIPMENT
+result= Baseball Bat
+| depcat: SPORTING GOODS
+http://localhost:8983/solr/category/select?wt=json&q=%20WOODEN%20WINE%20BOTTLE%20WALL%20HANGING
+Original Description:  WOODEN WINE BOTTLE WALL HANGING
+result= Coat Rack
+| depcat: AUDIO EQUIPMENT
+result= Crucifix
+| depcat: HOUSEWARES
+result= Decor Calendar
+| depcat: HOUSEWARES
+result= Tie Rack
+| depcat: FURNITURE
+result= Wine Rack
+| depcat: KITCHENWARE - COOKWARE, FLATWARE & CUTLERY
+result= Bottle Opener
+| depcat: KITCHENWARE - DINNERWARE, GLASSWARE & FOOD STORAGE
+result= Cupboard
+| depcat: FURNITURE
+result= Hanger, Wire
+| depcat: HOUSEWARES
+result= Non-Fine Tapestry
+| depcat: ART
+result= Wall Hanging
+| depcat: DECORATIONS
+http://localhost:8983/solr/category/select?wt=json&q=%20kitchen%20appliances
+Original Description:  kitchen appliances
+result= Trash Compactor
+| depcat: APPLIANCES - MAJOR
+result= Hot Plate, Kitchen
+| depcat: APPLIANCES - SMALL, KITCHEN & PERSONAL CARE
+result= Range Hood
+| depcat: APPLIANCES - MAJOR
+result= Clean, Box, Dinnerware
+| depcat: APPLIANCES - SMALL, KITCHEN & PERSONAL CARE
+result= Lidocaine
+| depcat: APPLIANCES - SMALL, KITCHEN & PERSONAL CARE
+result= Juicer
+| depcat: APPLIANCES - SMALL, KITCHEN & PERSONAL CARE
+result= Kitchen Mixer
+| depcat: APPLIANCES - SMALL, KITCHEN & PERSONAL CARE
+result= Scale, Kitchen
+| depcat: APPLIANCES - SMALL, KITCHEN & PERSONAL CARE
+result= Food Slicer
+| depcat: APPLIANCES - SMALL, KITCHEN & PERSONAL CARE
+result= Oven
+| depcat: APPLIANCES - MAJOR KITCHEN & LAUNDRY
+http://localhost:8983/solr/category/select?wt=json&q=%20BROOM%20HEAD
+Original Description:  BROOM HEAD
+result= Dust Pan
+| depcat: HOUSEWARES
+result= Broom
+| depcat: HOUSEWARES
+result= Sweeper
+| depcat: CONSTRUCTION EQUIPMENT & MACHINERY
+result= Showerhead
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+result= Shower Head
+| depcat: TOYS/GAMES
+result= Drum Head
+| depcat: MUSICAL INSTRUMENTS
+result= Racquet Ball Racquet
+| depcat: SPORTS AND RECREATION
+result= Air Tool
+| depcat: TOOLS – HAND TOOLS/ TOOL STORAGE
+result= Head Lamp
+| depcat: TOOLS - HAND TOOLS & TOOL STORAGE
+result= Golf Covers
+| depcat: SPORTING GOODS
+http://localhost:8983/solr/category/select?wt=json&q=%20MESH%20FOOD%20TENT
+Original Description:  MESH FOOD TENT
+result= Drain Strainer
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+result= Camping Tent
+| depcat: SPORTING GOODS
+result= Doll Carrying Case
+| depcat: TOYS/GAMES - CHILDREN'S
+result= Bed Canopy
+| depcat: BEDS, MATTRESSES & BOX SPRINGS
+result= Laundry Bag
+| depcat: HOUSEWARES
+result= Scuba Dive Bag
+| depcat: SPORTS AND RECREATION
+result= Shower Cap
+| depcat: HOUSEWARES
+result= Auto Fuel System - Fuel Pump Strainer
+| depcat: AUTOMOBILE PARTS & ACCESSORIES
+result= Fishing Net
+| depcat: SPORTS AND RECREATION
+result= Colander
+| depcat: KITCHENWARE
+http://localhost:8983/solr/category/select?wt=json&q=%20BURNED%20FROM%20SITE%20BLANKETS%20FULL
+Original Description:  BURNED FROM SITE BLANKETS FULL
+result= Blanket
+| depcat: LINEN, BATH & BEDDING - FINE
+result= Motorcycle Helmet
+| depcat: SPORTS AND RECREATION
+result= Auto Engine - Crankshaft
+| depcat: AUTOMOBILE PARTS & ACCESSORIES
+result= Violin Accessory
+| depcat: MUSICAL INSTRUMENTS
+result= Taxidermy Animal
+| depcat: COLLECTIBLES
+result= Futon Mattress
+| depcat: FURNITURE - BEDDING
+result= Scuba Wetsuit
+| depcat: CLOTHING - MEN'S
+result= Horse Riding Apparel - Helmets and Protection
+| depcat: PET CARE
+result= Auto Drivetrain - Transmission Oil Cooler
+| depcat: AUTOMOBILE PARTS & ACCESSORIES
+result= Baby Comforter
+| depcat: BABY & INFANT CARE
+http://localhost:8983/solr/category/select?wt=json&q=%20SHOE%20UGGS
+Original Description:  SHOE UGGS
+result= Slippers
+| depcat: FOOTWEAR - MEN'S
+result= Slippers, Boy's
+| depcat: FOOTWEAR - CHILDREN'S
+result= Boots, Infant and Toddler
+| depcat: FOOTWEAR
+result= Shoe Rack
+| depcat: HOUSEWARES
+result= Shoe Protector
+| depcat: FOOTWEAR - MEN'S
+result= Shoe Laces
+| depcat: FOOTWEAR - MEN'S
+result= Shoe Mitt
+| depcat: HOUSEWARES
+result= Casual Shoes, Boy's
+| depcat: FOOTWEAR - WOMEN'S
+result= Other Apparel
+| depcat: CLOTHING - MEN'S
+result= Casual Shoes, Infant and toddler
+| depcat: CLOTHING - CHILDREN'S
+http://localhost:8983/solr/category/select?wt=json&q=%20SWEATSHIRTS
+Original Description:  SWEATSHIRTS
+result= Sweatshirt, Men's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Sweatshirt, Women's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Sweatshirt, Infant and Toddler
+| depcat: CLOTHING - CHILDREN'S
+result= Sweatshirt, Girl's
+| depcat: CLOTHING - CHILDREN'S
+result= Hoodie
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+http://localhost:8983/solr/category/select?wt=json&q=%20CT%20NUMBER%20PENCILS
+Original Description:  CT NUMBER PENCILS
+result= Pencils
+| depcat: OFFICE EQUIPMENT
+result= Auto Electrical - Bulb - Parking Light
+| depcat: AUTOMOTIVE PARTS/ACCESSORIES
+result= Pencil Holder
+| depcat: OFFICE EQUIPMENT
+result= Wallpaper Border
+| depcat: LINEN, BATH & BEDDING - COMMON
+result= Toys, Arts and Crafts
+| depcat: BOOKS - HARDCOVER, PAPERBACK & MAGAZINE
+result= Lip Pencil
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE CONSUMABLES
+result= Eyebrow Shader
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE CONSUMABLES
+result= Napkins, Paper
+| depcat: HOUSEWARES
+result= Tea, Bags
+| depcat: FOOD/GROCERY
+result= Plastic Bowl
+| depcat: KITCHENWARE - DINNERWARE, GLASSWARE & FOOD STORAGE
+http://localhost:8983/solr/category/select?wt=json&q=%20LAPTOP%20HEWLETT%20PACKARD
+Original Description:  LAPTOP HEWLETT PACKARD
+result= Print Supplies
+| depcat: COMPUTER ACCESSORIES
+result= Computer Desktop
+| depcat: COMPUTER
+result= Computer Printer
+| depcat: COMPUTER ACCESSORIES
+result= Printer Cleaning Supplies
+| depcat: ANTIQUE, VINTAGE ITEMS & FURNITURE
+result= Calculator
+| depcat: OFFICE EQUIPMENT
+result= High Grade Paper
+| depcat: OFFICE EQUIPMENT
+result= Computer Keyboard
+| depcat: COMPUTER ACCESSORIES
+result= Computer Scanner
+| depcat: COMPUTER ACCESSORIES
+result= Computer Monitor
+| depcat: COMPUTER
+result= Printer Paper
+| depcat: OFFICE SUPPLIES & STATIONARY
+http://localhost:8983/solr/category/select?wt=json&q=%20PICTURE%20FRAME%20WOOD%20HOBBY%20LOBBY
+Original Description:  PICTURE FRAME WOOD HOBBY LOBBY
+result= Framed Photo
+| depcat: ART - DECORATIVE ART
+result= Shadow Box
+| depcat: HOUSEWARES
+result= Non-Fine Framed Picture
+| depcat: ART - DECORATIVE ART
+result= Photograph
+| depcat: PERSONAL EFFECTS & MEMORABILIA
+result= Chalk Board
+| depcat: OFFICE EQUIPMENT
+result= Drafting Table
+| depcat: TOOLS - HAND TOOLS & TOOL STORAGE
+result= Non-Fine Tapestry
+| depcat: ART
+result= Picture Frame
+| depcat: ART - DECORATIVE ART
+result= Fine Framed Picture
+| depcat: ART
+result= Fine Framed Print
+| depcat: ART - FINE ART
+http://localhost:8983/solr/category/select?wt=json&q=%20TON%20BOTTLE%20JACK%20TORIN
+Original Description:  TON BOTTLE JACK TORIN
+result= Jack, Axle
+| depcat: TOOLS - HAND TOOLS & TOOL STORAGE
+result= Jack, Floor
+| depcat: TOOLS - POWER
+result= Hydraulic Power Unit
+| depcat: TOOLS - POWER
+result= Lift
+| depcat: SCISSORS
+result= Scuba Camera Underwater
+| depcat: AUTOMOBILE PARTS & ACCESSORIES
+result= Auto Trim Accessories - Seat Cover
+| depcat: AUTOMOTIVE PARTS/ACCESSORIES
+result= C-Clamp
+| depcat: TOOLS – HAND TOOLS/ TOOL STORAGE
+result= Cargo Trailer
+| depcat: CONSTRUCTION EQUIPMENT & MACHINERY
+result= Spirits
+| depcat: FOOD/GROCERY
+result= Guitar - Electric Bass Accessory
+| depcat: MUSICAL INSTRUMENTS
+http://localhost:8983/solr/category/select?wt=json&q=%20INFANT%20TANK%20TOP
+Original Description:  INFANT TANK TOP
+result= Shirt, Infant and Toddler
+| depcat: CLOTHING - CHILDREN'S
+result= Short Sleeve Shirt, Girl's
+| depcat: CLOTHING - CHILDREN'S
+result= Socks, Infant and Toddler
+| depcat: CLOTHING - CHILDREN'S
+result= Shorts, Infant and Toddler
+| depcat: CLOTHING - CHILDREN'S
+result= Swimwear, Infant and Toddler
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Halter Top, Girl's
+| depcat: CLOTHING - CHILDREN'S
+result= Halter Top, Women's
+| depcat: CLOTHING - WOMEN'S
+result= Top
+| depcat: TOYS/GAMES
+result= Sneakers, Infant and Toddler
+| depcat: CLOTHING - CHILDREN'S
+result= Undershirt Women's
+| depcat: CLOTHING - WOMEN'S
+http://localhost:8983/solr/category/select?wt=json&q=%20AREA%20RUG%20X
+Original Description:  AREA RUG X
+result= Rug
+| depcat: RUGS
+result= Rug and Mat Beater
+| depcat: HOUSEWARES
+result= Carpet
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+result= Table Runner
+| depcat: LINEN - BEDDING
+result= Mat
+| depcat: ART
+result= Baby Comforter
+| depcat: BABY & INFANT CARE
+result= Carpet Cleaner
+| depcat: APPLIANCES - SMALL, KITCHEN & PERSONAL CARE
+result= Bathmat
+| depcat: HOUSEWARES
+result= Carpet Cleaning Fluid
+| depcat: HOUSEKEEPING SUPPLIES
+result= Vacuum Accessory
+| depcat: APPLIANCES - MINOR
+http://localhost:8983/solr/category/select?wt=json&q=%20REPLACEMENT%20HEAD%20WOMENS%20RAZOR%20VENUS
+Original Description:  REPLACEMENT HEAD WOMENS RAZOR VENUS
+result= Razor
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE DURABLES
+result= Razor Blade
+| depcat: DRUG/HEALTH/BEAUTY
+result= Dress Slip, Girl's
+| depcat: CLOTHING - CHILDREN'S
+result= Shaver
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE DURABLES
+result= Shower Head
+| depcat: TOYS/GAMES
+result= Showerhead
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+result= Bass Amplifier
+| depcat: MUSICAL INSTRUMENTS
+result= Nails
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+result= Computer Mouse
+| depcat: COMPUTER ACCESSORIES
+result= Sari
+| depcat: CLOTHING - WOMEN'S
+http://localhost:8983/solr/category/select?wt=json&q=%20SKIRT%20WOMENS
+Original Description:  SKIRT WOMENS
+result= Suit, Women's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Dresswear, Women's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Slip, Women's
+| depcat: CLOTHING - WOMEN'S
+result= Suitcoat, Women's
+| depcat: CLOTHING - WOMEN'S
+result= Swimwear, Women's
+| depcat: CLOTHING - WOMEN'S
+result= Violin Accessory
+| depcat: MUSICAL INSTRUMENTS
+result= Clean Services
+| depcat: SERVICES, FEES, MISC CONTENTS RELATED
+result= Skirt, Girl's
+| depcat: CLOTHING - WOMEN'S
+result= Bed Skirt
+| depcat: LINEN, BATH & BEDDING - COMMON
+result= Skirt, Women's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+http://localhost:8983/solr/category/select?wt=json&q=%20B4Y%20DRIED%20MANGO%20CHUNKS%206Z
+Original Description:  B4Y DRIED MANGO CHUNKS 6Z
+result= Ready to Eat Meals
+| depcat: FOOD/GROCERY
+result= Canned Fruit
+| depcat: FOOD/GROCERY
+result= Asian - Other
+| depcat: FOOD/GROCERY
+result= Dried Flower Arrangement
+| depcat: HOUSEWARES
+result= Dried Fruits and Nuts
+| depcat: FOOD & BEVERAGE
+result= Specialty Ethnic Produce
+| depcat: FOOD & BEVERAGE
+result= Asian - Canned Meals
+| depcat: FOOD/GROCERY
+result= Potpourri
+| depcat: HOUSEWARES
+result= Beef
+| depcat: FOOD & BEVERAGE
+result= Pool Ornamental Float
+| depcat: SPORTS AND RECREATION
+http://localhost:8983/solr/category/select?wt=json&q=%20BURNED%20FROM%20SITE%20ALLOWANCE%20COUNTER%20MEDS/VITAMINS
+Original Description:  BURNED FROM SITE ALLOWANCE COUNTER MEDS/VITAMINS
+result= Horse Supplements - Joint
+| depcat: PET SUPPLIES & CONSUMABLES
+result= Bird - Medications and Supplements
+| depcat: PET SUPPLIES & CONSUMABLES
+result= Other Personal Effects
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE DURABLES
+result= Boring Tool
+| depcat: TOOLS - POWER
+result= Clean, Box, Cleaning Supplies
+| depcat: MISCELLANEOUS
+result= Vitamins
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE CONSUMABLES
+result= Glasses Cleaning Solution
+| depcat: DRUG/HEALTH/BEAUTY
+result= Rowing Machine
+| depcat: SPORTS AND RECREATION
+result= Power Supply
+| depcat: TELEVISION & VIDEO EQUIPMENT
+result= Tarts
+| depcat: FOOD & BEVERAGE
+http://localhost:8983/solr/category/select?wt=json&q=%20tablet
+Original Description:  tablet
+result= Medication, Prescription, Pro
+| depcat: MEDICINE - COMMERCIAL
+result= Medication, Prescription
+| depcat: DRUG/HEALTH/BEAUTY
+result= Handheld Computer
+| depcat: COMPUTER
+result= Computer Stylus Pen
+| depcat: COMPUTERS/SOFTWARE
+result= Fish - Maintenance
+| depcat: PET CARE
+result= Computer Keyboard
+| depcat: COMPUTER ACCESSORIES
+result= Gadget, House and Home
+| depcat: HOUSEWARES
+result= Harpsichord
+| depcat: MUSICAL INSTRUMENTS
+result= Computer Mouse
+| depcat: COMPUTER ACCESSORIES
+result= Commercial, Drawing Tools
+| depcat: CONSTRUCTION SUPPLIES
+http://localhost:8983/solr/category/select?wt=json&q=%20APPLE%20MACBOOK%20INCH%20NOTEBOOK
+Original Description:  APPLE MACBOOK INCH NOTEBOOK
+result= Computer Laptop
+| depcat: COMPUTER
+result= Power Conditioner
+| depcat: COMPUTERS/SOFTWARE
+result= Computer Wiring
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+result= Screen Filter
+| depcat: COMPUTERS/SOFTWARE
+result= Notebook
+| depcat: OFFICE SUPPLIES & STATIONARY
+result= Accessory
+| depcat: MISCELLANEOUS
+result= Flute
+| depcat: MUSICAL INSTRUMENTS
+result= Computer Monitor
+| depcat: COMPUTER
+result= Television Mount
+| depcat: ANTIQUE, VINTAGE ITEMS & FURNITURE
+result= Accordion
+| depcat: BOOKS - PROFESSIONAL, REFERENCE & TEXTBOOK
+http://localhost:8983/solr/category/select?wt=json&q=%20B4Y%20AIR%20PPCRN%20SEA%20SALT%204.5Z
+Original Description:  B4Y AIR PPCRN SEA SALT 4.5Z
+result= Fish - Saltwater
+| depcat: PET CARE
+result= Salt and Pepper
+| depcat: FOOD & BEVERAGE
+result= Spa
+| depcat: POOL & SPA
+result= Fish - Water Maintenance
+| depcat: PET EQUIPMENT
+result= Tire Gauge
+| depcat: TOOLS - HAND TOOLS & TOOL STORAGE
+result= Fireplace
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+result= Salt and Pepper Set
+| depcat: KITCHENWARE
+result= Seasonings
+| depcat: FOOD & BEVERAGE
+result= Water Softener
+| depcat: HOUSEHOLD CONSUMABLES
+result= Reptile - Hermit Crab
+| depcat: PET CARE
+http://localhost:8983/solr/category/select?wt=json&q=%20BED%20PILLOW
+Original Description:  BED PILLOW
+result= Pillow Sleep
+| depcat: LINEN, BATH & BEDDING - COMMON
+result= Pillow Sham
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Pillowcase
+| depcat: LINEN, BATH & BEDDING - COMMON
+result= Pillow, Decorative
+| depcat: COLLECTIBLES
+result= Mattress
+| depcat: FURNITURE - BEDDING
+result= Dog - Beds
+| depcat: PET EQUIPMENT
+result= Pet Bed
+| depcat: YARD AND GARDEN
+result= Waterbed Mattress
+| depcat: BEDS, MATTRESSES & BOX SPRINGS
+result= Bedding Set
+| depcat: SPORTING GOODS
+result= Crib Mattress
+| depcat: BABY CARE
+http://localhost:8983/solr/category/select?wt=json&q=%20MARVEL%20COMICS%20INCREDIBLE%20HULK
+Original Description:  MARVEL COMICS INCREDIBLE HULK
+result= Comic Book Collection
+| depcat: COLLECTIBLES
+result= Comic Book
+| depcat: COLLECTIBLES
+result= Action Figure
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Slippers, Boy's
+| depcat: FOOTWEAR - CHILDREN'S
+result= Sweatshirt, Infant and Toddler
+| depcat: CLOTHING - CHILDREN'S
+result= Cat - Grooming
+| depcat: PET EQUIPMENT
+result= Grab Bar
+| depcat: MEDICAL & OPTICAL CARE EQUIPMENT
+result= Pet Treats
+| depcat: PET CARE
+result= Beef
+| depcat: FOOD & BEVERAGE
+result= Heavy Equipment
+| depcat: CONSTRUCTION EQUIPMENT & MACHINERY
+http://localhost:8983/solr/category/select?wt=json&q=%20LG%20FLOOR%20MATS%20RUBBER%20GRADE
+Original Description:  LG FLOOR MATS RUBBER GRADE
+result= Auto Trim Accessories - Floor Mat
+| depcat: RUGS
+result= Mat
+| depcat: ART
+result= Exercise Mat
+| depcat: SPORTING GOODS
+result= Auto Trim Accessories - Seat Cover
+| depcat: AUTOMOTIVE PARTS/ACCESSORIES
+result= Mop
+| depcat: HOUSEWARES
+result= Auto Performance - Intake Kit - Performance
+| depcat: AUTOMOBILE PARTS & ACCESSORIES
+result= Squeegee
+| depcat: TOOLS - HAND TOOLS & TOOL STORAGE
+result= Shooting Accessory
+| depcat: TOYS/GAMES - ADULT GAMES & EQUIPMENT
+result= Christmas Lighting
+| depcat: DECORATIONS
+result= Djembe
+| depcat: MUSICAL INSTRUMENTS
+http://localhost:8983/solr/category/select?wt=json&q=%20HRSHY%20KITKAT%20XL%20BAR%204.5Z
+Original Description:  HRSHY KITKAT XL BAR 4.5Z
+result= Home Gym
+| depcat: SPORTS AND RECREATION
+result= Hunting Knife
+| depcat: KITCHENWARE - COOKWARE, FLATWARE & CUTLERY
+result= Drum Pedal
+| depcat: HOUSEWARES
+result= Dress Shirt, Men's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Tee Shirt, Men's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Pry Bar
+| depcat: TOOLS – HAND TOOLS/ TOOL STORAGE
+result= Crowbar
+| depcat: TOOLS – HAND TOOLS/ TOOL STORAGE
+result= Team Replica Jerseys
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Concrete Breaker
+| depcat: CONSTRUCTION EQUIPMENT & MACHINERY
+result= Polo Shirt, Men's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+http://localhost:8983/solr/category/select?wt=json&q=%20diamonds%C2%A0in%C2%A0it
+Original Description:  diamonds in it
+result= Gemstone, Diamond
+| depcat: JEWELRY
+result= Other Jewelry
+| depcat: FURNITURE
+result= Ring
+| depcat: JEWELRY
+result= Jewelry Set, Bracelet-Ring
+| depcat: JEWELRY/WATCHES/FURS
+result= Post-It Notes
+| depcat: OFFICE SUPPLIES & STATIONARY
+result= Lattice
+| depcat: HOBBY AND CRAFT ITEMS
+result= Matches
+| depcat: HOUSEHOLD CONSUMABLES
+result= Baseball Helmet
+| depcat: SPORTING GOODS
+result= Auto Electrical - Bulb - Tail Light
+| depcat: AUTOMOBILE PARTS & ACCESSORIES
+result= Commercial Laundry
+| depcat: COMMERCIAL MANUFACTURING EQUIPMENT & MACHINERY
+http://localhost:8983/solr/category/select?wt=json&q=%20Picture%20frame%20mat-%20custom-%20Repair
+Original Description:  Picture frame mat- custom- Repair
+result= Framed Photo
+| depcat: ART - DECORATIVE ART
+result= Picture Frame
+| depcat: ART - DECORATIVE ART
+result= Fine Framed Print
+| depcat: ART - FINE ART
+result= Exercise Mat
+| depcat: SPORTING GOODS
+result= Fine Framed Picture
+| depcat: ART
+result= Non-Fine Framed Picture
+| depcat: ART - DECORATIVE ART
+result= Cat - Photo Gifts
+| depcat: PET EQUIPMENT
+result= Photo
+| depcat: PERSONAL EFFECTS
+result= Photograph
+| depcat: PERSONAL EFFECTS & MEMORABILIA
+result= Non-Fine Framed Print
+| depcat: ART - DECORATIVE ART
+http://localhost:8983/solr/category/select?wt=json&q=%20BURNED%20FROM%20SITE%20EYE%20LINER%20LINER%20PENCIL%20REVLON
+Original Description:  BURNED FROM SITE EYE LINER LINER PENCIL REVLON
+result= Eyebrow Finisher
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE CONSUMABLES
+result= Lip Pencil
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE CONSUMABLES
+result= Eyeliner
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE CONSUMABLES
+result= Lip Gloss
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE CONSUMABLES
+result= Paint Tray
+| depcat: HOUSEKEEPING SUPPLIES
+result= Highlighter
+| depcat: OFFICE SUPPLIES & STATIONARY
+result= Eyecups and Eyepieces
+| depcat: PHOTOGRAPHIC EQUIPMENT
+result= Pet Litter Container
+| depcat: PET CARE
+result= Pencil Sharpener
+| depcat: OFFICE SUPPLIES & STATIONARY
+result= Stapler
+| depcat: OFFICE EQUIPMENT
+http://localhost:8983/solr/category/select?wt=json&q=%20ANGIES%20LIST%20GP%20HAT%20RACE%20LOGO
+Original Description:  ANGIES LIST GP HAT RACE LOGO
+result= Hat, Men's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Baseball Cap
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Cycling, Gloves
+| depcat: LINEN, BATH & BEDDING - COMMON
+result= Scarf, Boy's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Hat, Infant and Toddler
+| depcat: CLOTHING - CHILDREN'S
+result= Popcorn
+| depcat: FOOD/GROCERY
+result= Gloves, Girl's
+| depcat: CLOTHING - CHILDREN'S
+result= Golf Covers
+| depcat: SPORTING GOODS
+result= Mailbox
+| depcat: HOUSEWARES
+result= Gps and Accessories
+| depcat: SPORTS AND RECREATION
+http://localhost:8983/solr/category/select?wt=json&q=%20EXTRA%20POLAR%20ICE%2015CT
+Original Description:  EXTRA POLAR ICE 15CT
+result= Cold Pack
+| depcat: MEDICAL EQUIPMENT & MACHINERY
+result= Gum
+| depcat: FOOD/GROCERY
+result= Frozen Desserts and Bakery
+| depcat: FOOD & BEVERAGE
+result= Ski Goggles
+| depcat: SPORTS AND RECREATION
+result= Cooler
+| depcat: KITCHENWARE - DINNERWARE, GLASSWARE & FOOD STORAGE
+result= Small Pet - Training
+| depcat: PET SUPPLIES & CONSUMABLES
+result= Pulse Monitor
+| depcat: SPORTS AND RECREATION
+result= Watch
+| depcat: WATCHES
+result= Heavy Coat, Boy's
+| depcat: CLOTHING - CHILDREN'S
+result= Tonic and Club Soda
+| depcat: FOOD & BEVERAGE
+http://localhost:8983/solr/category/select?wt=json&q=%20SHOWER%20CURTAIN%20LINER
+Original Description:  SHOWER CURTAIN LINER
+result= Shower Curtain
+| depcat: LINEN - BEDDING
+result= Shower Accessory
+| depcat: HOUSEWARES
+result= Shower Curtain Rod
+| depcat: HOUSEWARES
+result= Curtain Rod
+| depcat: HOUSEWARES
+result= Curtains
+| depcat: LINEN - SLIP COVER/WINDOW COVERING
+result= Curtains Accessory
+| depcat: LINEN - SLIP COVER/WINDOW COVERING
+result= Drapery Rod
+| depcat: HOUSEWARES
+result= Curtain Valance
+| depcat: LINEN - SLIP COVER/WINDOW COVERING
+result= Swim Trunks, Men's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Dress
+| depcat: BABY & INFANT CARE
+http://localhost:8983/solr/category/select?wt=json&q=%20PRINTER%20SN%20EPSON
+Original Description:  PRINTER SN EPSON
+result= Computer Printer
+| depcat: COMPUTER ACCESSORIES
+result= Print Supplies
+| depcat: COMPUTER ACCESSORIES
+result= Computer Scanner
+| depcat: COMPUTER ACCESSORIES
+result= Printer Cleaning Supplies
+| depcat: ANTIQUE, VINTAGE ITEMS & FURNITURE
+result= Printer Paper
+| depcat: OFFICE SUPPLIES & STATIONARY
+result= High Grade Paper
+| depcat: OFFICE EQUIPMENT
+result= Photocopy Machine
+| depcat: OFFICE EQUIPMENT
+result= Fax Machine
+| depcat: OFFICE EQUIPMENT
+result= Camera or Camcorder Film
+| depcat: CAMERA & PHOTOGRAPHIC EQUIPMENT
+result= Label Maker and Supplies
+| depcat: OFFICE EQUIPMENT
+http://localhost:8983/solr/category/select?wt=json&q=%20WOMENS%20BLOUSE%20BUTTON%20DOWN%20SAINT%20GERMAIN
+Original Description:  WOMENS BLOUSE BUTTON DOWN SAINT GERMAIN
+result= Romper, Women's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Shirt or Blouse, Women's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Curtains Accessory
+| depcat: LINEN - SLIP COVER/WINDOW COVERING
+result= Short Sleeve Shirt, Women's
+| depcat: CLOTHING - WOMEN'S
+result= Dress Shirt, Women's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Vest, Women's
+| depcat: CLOTHING - WOMEN'S
+result= Dress Shirt, Boy's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Heavy Jacket, Women's
+| depcat: COMMERCIAL MANUFACTURING SUPPLIES
+result= Suit, Women's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Shirt, Men's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+http://localhost:8983/solr/category/select?wt=json&q=%20CLASSC%20RECIPE%20MLK%20BAR%204.4Z
+Original Description:  CLASSC RECIPE MLK BAR 4.4Z
+result= Cocktail Glass
+| depcat: HOUSEWARES
+result= Place Card Holder
+| depcat: KITCHENWARE - DINNERWARE, GLASSWARE & FOOD STORAGE
+result= Index Cards
+| depcat: OFFICE SUPPLIES & STATIONARY
+result= Tea, Bags
+| depcat: FOOD/GROCERY
+result= Pry Bar
+| depcat: TOOLS – HAND TOOLS/ TOOL STORAGE
+result= Crowbar
+| depcat: TOOLS – HAND TOOLS/ TOOL STORAGE
+result= Concrete Breaker
+| depcat: CONSTRUCTION EQUIPMENT & MACHINERY
+result= Bar Clamp
+| depcat: TOOLS – HAND TOOLS/ TOOL STORAGE
+result= Barstool
+| depcat: FURNITURE
+result= Sound Machine
+| depcat: DRUG/HEALTH/BEAUTY
+http://localhost:8983/solr/category/select?wt=json&q=%20NTL%20SUMMER%20TEMPS
+Original Description:  NTL SUMMER TEMPS
+result= Baby Bath Tub
+| depcat: TOYS/GAMES - CHILDREN'S
+result= Baby Changing Pad
+| depcat: BABY & INFANT CARE
+result= Accessory, Infant and Toddler
+| depcat: CLOTHING - CHILDREN'S
+result= Baby Booster Seat
+| depcat: DRUG/HEALTH/BEAUTY
+result= Baby Monitor
+| depcat: AUDIO EQUIPMENT
+result= Fine Linens
+| depcat: LINEN, BATH & BEDDING - FINE
+result= Toy, Jump Rope
+| depcat: TOYS/GAMES
+result= Inflatable Pool
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+result= Douche
+| depcat: FOOD/GROCERY
+result= Baby Toilet
+| depcat: BABY & INFANT CARE
+http://localhost:8983/solr/category/select?wt=json&q=%20PHOTO%20PAGE%20CALCULATOR%20CASIO%20FR%202650PLUS
+Original Description:  PHOTO PAGE CALCULATOR CASIO FR 2650PLUS
+result= Calculator
+| depcat: OFFICE EQUIPMENT
+result= Cash Register
+| depcat: TELEVISION & VIDEO EQUIPMENT
+result= Keyboard Synthesizer
+| depcat: MUSICAL INSTRUMENTS
+result= Keyboard Accessory
+| depcat: MEDICAL & OPTICAL CARE EQUIPMENT
+result= Time Clock
+| depcat: OFFICE EQUIPMENT
+result= Postage Machine
+| depcat: OFFICE EQUIPMENT
+result= Wood, Golf Club
+| depcat: SPORTS AND RECREATION
+result= Contractor Calculator
+| depcat: OFFICE EQUIPMENT
+result= Scuba Regulator
+| depcat: SPORTS AND RECREATION
+result= Tank, Fuel Storage
+| depcat: HOUSEWARES
+http://localhost:8983/solr/category/select?wt=json&q=%20POST%20EARRINGS%20GOLD%20PLATED
+Original Description:  POST EARRINGS GOLD PLATED
+result= Jewelry Set, Necklace-Ring
+| depcat: COMMERCIAL MANUFACTURING SUPPLIES
+result= Chandelier
+| depcat: CLOTHING - WOMEN'S
+result= Earplugs
+| depcat: SPORTING GOODS
+result= Pendant, Jewelry
+| depcat: MOVIES, MUSIC & MEDIA
+result= Pin, Jewelry
+| depcat: JEWELRY/WATCHES/FURS
+result= Brooche
+| depcat: FOOTWEAR
+result= Earrings
+| depcat: JEWELRY
+result= Costume Jewelry
+| depcat: JEWELRY - COSTUME
+result= Jewelry Set, Bracelet-Necklace
+| depcat: COMMERCIAL MANUFACTURING SUPPLIES
+result= Jewelry Set, Bracelet-Necklace-Ring
+| depcat: JEWELRY
+http://localhost:8983/solr/category/select?wt=json&q=%20PHOTO%20HANDKERCHIEF%20PATRIOTIC
+Original Description:  PHOTO HANDKERCHIEF PATRIOTIC
+result= Handkerchief
+| depcat: CLOTHING - MEN'S
+result= Jukebox
+| depcat: AUDIO EQUIPMENT
+result= Photo Album
+| depcat: HOUSEWARES
+result= Photograph
+| depcat: PERSONAL EFFECTS & MEMORABILIA
+result= Arcade Game
+| depcat: TOYS/GAMES
+result= Photo
+| depcat: PERSONAL EFFECTS
+result= High Grade Paper
+| depcat: OFFICE EQUIPMENT
+result= Vending Machine
+| depcat: VENDING
+result= Framed Photo
+| depcat: ART - DECORATIVE ART
+result= Martini Glass
+| depcat: KITCHENWARE - DINNERWARE, GLASSWARE & FOOD STORAGE
+http://localhost:8983/solr/category/select?wt=json&q=%20BURNED%20FROM%20SITE%20DISHES%20PYREX
+Original Description:  BURNED FROM SITE DISHES PYREX
+result= Casserole Dish Set
+| depcat: KITCHENWARE
+result= Casserole Dish
+| depcat: KITCHENWARE - COOKWARE, FLATWARE & CUTLERY
+result= Baking Dish
+| depcat: KITCHENWARE - COOKWARE, FLATWARE & CUTLERY
+result= Bakeware Set
+| depcat: KITCHENWARE - COOKWARE, FLATWARE & CUTLERY
+result= Other House and Home
+| depcat: HOUSEWARES
+result= Loaf Pan
+| depcat: KITCHENWARE
+result= Servingware Bowl, Serving
+| depcat: KITCHENWARE - DINNERWARE, GLASSWARE & FOOD STORAGE
+result= Other Apparel
+| depcat: CLOTHING - MEN'S
+result= Lasagna Pan
+| depcat: KITCHENWARE
+result= Cookware Rack
+| depcat: KITCHENWARE
+http://localhost:8983/solr/category/select?wt=json&q=%20HARLEY%20DAVIDSON%20LIGHTER%20COLLECTION
+Original Description:  HARLEY DAVIDSON LIGHTER COLLECTION
+result= Cigarette Lighter
+| depcat: PERSONAL EFFECTS
+result= Boots, Women's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Dart Set
+| depcat: TOYS/GAMES - ADULT GAMES & EQUIPMENT
+result= Leather Jacket, Boy's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Golf Towel
+| depcat: SPORTING GOODS
+result= Horse Electrolytes
+| depcat: PET SUPPLIES & CONSUMABLES
+result= Non-Fine Unframed Poster
+| depcat: HOUSEWARES - LAMPS/LIGHTING
+result= Fireplace Accessory
+| depcat: HOUSEWARES
+result= Shot Glass
+| depcat: APPLIANCES - SMALL, KITCHEN & PERSONAL CARE
+result= Horse Riding Apparel - Helmets and Protection
+| depcat: PET CARE
+http://localhost:8983/solr/category/select?wt=json&q=%20VIDEO%20GAME%20CONSOLE%20NINTENDO%20RVL-00T
+Original Description:  VIDEO GAME CONSOLE NINTENDO RVL-00T
+result= Game Accessories
+| depcat: FOOTWEAR
+result= Game Consoles
+| depcat: VIDEO GAMING & ELECTRONIC TOYS
+result= Game Software
+| depcat: VIDEO GAMING & ELECTRONIC TOYS
+result= Wild Birds - Feeders
+| depcat: PET CARE
+result= DJ Mixer Accessory
+| depcat: MUSICAL INSTRUMENTS
+result= Pro Audio - Wireless Guitar System
+| depcat: MUSICAL INSTRUMENTS
+result= Pinball Machine
+| depcat: TOYS/GAMES
+result= Computer Joystick
+| depcat: TELEVISION & VIDEO EQUIPMENT
+result= Arcade Game
+| depcat: TOYS/GAMES
+result= Video Accessory
+| depcat: ANTIQUE, VINTAGE ITEMS & FURNITURE
+http://localhost:8983/solr/category/select?wt=json&q=%20CHILDRENS%20WEAVING%20LOOM%20MADE%20BY%20ME
+Original Description:  CHILDRENS WEAVING LOOM MADE BY ME
+result= Loom
+| depcat: ARTS, CRAFTS & HOBBY SUPPLIES
+result= Crochet Needles
+| depcat: HOBBY AND CRAFT ITEMS
+result= Boxers, Boy's
+| depcat: CLOTHING - CHILDREN'S
+result= Briefs, Boy's
+| depcat: CLOTHING - CHILDREN'S
+result= Socks, Boy's
+| depcat: CLOTHING - CHILDREN'S
+result= Pajamas, Boy's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Bra, Girl's
+| depcat: CLOTHING - WOMEN'S
+result= Onesie
+| depcat: CLOTHING - CHILDREN'S
+result= Dresswear, Infant and Toddler
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Pendant, Jewelry
+| depcat: MOVIES, MUSIC & MEDIA
+http://localhost:8983/solr/category/select?wt=json&q=%20FLAT%20SCREEN%20BOX%20T%20GE
+Original Description:  FLAT SCREEN BOX T GE
+result= TV Antennae
+| depcat: TELEVISION & VIDEO EQUIPMENT
+result= Remote Control
+| depcat: AUDIO EQUIPMENT
+result= Ice Maker
+| depcat: SPORTING GOODS
+result= TV
+| depcat: TELEVISION & VIDEO EQUIPMENT
+result= Screen Filter
+| depcat: COMPUTERS/SOFTWARE
+result= Television Mount
+| depcat: ANTIQUE, VINTAGE ITEMS & FURNITURE
+result= Fireplace Screen
+| depcat: FURNITURE
+result= Projector Lamp
+| depcat: OFFICE EQUIPMENT
+result= Computer Monitor
+| depcat: COMPUTER
+result= Tv Stand
+| depcat: TV/VIDEO
+http://localhost:8983/solr/category/select?wt=json&q=%20BW%20SPEARMINT%20LEAVES
+Original Description:  BW SPEARMINT LEAVES
+result= Gum
+| depcat: FOOD/GROCERY
+result= Mints
+| depcat: CLOTHING - MEN'S
+result= Dried Herbs
+| depcat: FOOD/GROCERY
+result= Photocopy, BW
+| depcat: OFFICE SUPPLIES & STATIONARY
+result= Money, Platinum
+| depcat: ANTIQUE, VINTAGE ITEMS & FURNITURE
+result= Mexican - Spices
+| depcat: FOOD & BEVERAGE
+result= Coffee Cake
+| depcat: FOOD & BEVERAGE
+result= Switch Plate
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+result= Clock, Cuckoo
+| depcat: CLOCKS
+result= Electrical Outlet
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+http://localhost:8983/solr/category/select?wt=json&q=%20BUCKET%20HANDLE
+Original Description:  BUCKET HANDLE
+result= Bucket, Cleaning Supplies
+| depcat: AUTOMOTIVE PARTS/ACCESSORIES
+result= Squeegee
+| depcat: TOOLS - HAND TOOLS & TOOL STORAGE
+result= Oil Pump
+| depcat: TOOLS - HAND TOOLS & TOOL STORAGE
+result= Broom
+| depcat: HOUSEWARES
+result= Tricycle
+| depcat: SPORTS AND RECREATION
+result= Toy, Tricycle
+| depcat: TOYS/GAMES
+result= Shovel
+| depcat: YARD, GARDEN & OUTDOOR LIVING
+result= Ice Bucket
+| depcat: HOUSEWARES
+result= Paint Tray
+| depcat: HOUSEKEEPING SUPPLIES
+result= Auto Trim Accessories - Seat Cover
+| depcat: AUTOMOTIVE PARTS/ACCESSORIES
+http://localhost:8983/solr/category/select?wt=json&q=%20MENS%20LONG%20SLEEVE%20INSULATED%20SHIRT%20STREET%20WEAR
+Original Description:  MENS LONG SLEEVE INSULATED SHIRT STREET WEAR
+result= Shirt, Bike
+| depcat: CLOTHING - MEN'S
+result= Tee Shirt, Infant and Toddler
+| depcat: CLOTHING - CHILDREN'S
+result= Long Sleeve Shirt, Infant and Toddler
+| depcat: CLOTHING - CHILDREN'S
+result= Polo Shirt, Infant and Toddler
+| depcat: CLOTHING - CHILDREN'S
+result= Dress Shirt, Boy's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Shirt, Men's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Work Uniform
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Thermal Underwear
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Shirt, Athletic
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Dress Shirt, Men's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+http://localhost:8983/solr/category/select?wt=json&q=%20MEDIUM%20SILVER%20BOWLS%20GRAMS
+Original Description:  MEDIUM SILVER BOWLS GRAMS
+result= Small Pet - Feeders and Waterers
+| depcat: PET EQUIPMENT
+result= Plastic Bowl
+| depcat: KITCHENWARE - DINNERWARE, GLASSWARE & FOOD STORAGE
+result= Bowl Decor
+| depcat: APPAREL - HAUTE COUTURE, CUSTOM-MADE & FORMALWEAR
+result= Bracelet
+| depcat: ANTIQUE, VINTAGE ITEMS & FURNITURE
+result= Tea Service, Silver
+| depcat: KITCHENWARE - COOKWARE, FLATWARE & CUTLERY
+result= Bowl, Salad
+| depcat: KITCHENWARE
+result= Baby Utensils
+| depcat: BABY CARE
+result= Salad Bowl
+| depcat: KITCHENWARE
+result= Dinnerware, Fine China
+| depcat: ANTIQUE, VINTAGE ITEMS & FURNITURE
+result= Horse Tack - Bridles
+| depcat: PET CARE
+http://localhost:8983/solr/category/select?wt=json&q=%20WOMENS%20CASUAL%20SNEAKERS%20SLIP%20ON%20BOAT%20SHOES%20RUBBER%20SOLES%20WESTWIND%20NAVY
+Original Description:  WOMENS CASUAL SNEAKERS SLIP ON BOAT SHOES RUBBER SOLES WESTWIND NAVY
+result= Casual Shoes, Boy's
+| depcat: FOOTWEAR - WOMEN'S
+result= Sneakers, Women's
+| depcat: FOOTWEAR
+result= Platform Shoes, Girl's
+| depcat: FOOTWEAR - CHILDREN'S
+result= Clogs, Women's
+| depcat: FOOTWEAR - WOMEN'S
+result= Sneakers, Boy's
+| depcat: FOOTWEAR - CHILDREN'S
+result= Casual Shoes, Women's
+| depcat: FOOTWEAR
+result= Flats, Girl's
+| depcat: FOOTWEAR
+result= Casual Shoes, Girl's
+| depcat: FOOTWEAR - CHILDREN'S
+result= Casual Shoes, Infant and toddler
+| depcat: CLOTHING - CHILDREN'S
+result= Loafers, Boy's
+| depcat: FOOTWEAR
+http://localhost:8983/solr/category/select?wt=json&q=%20BURNED%20FROM%20SITE%20KITCHEN%20COOKING%20UTENSILS
+Original Description:  BURNED FROM SITE KITCHEN COOKING UTENSILS
+result= Utensil Tray
+| depcat: KITCHENWARE - COOKWARE, FLATWARE & CUTLERY
+result= Spatula
+| depcat: KITCHENWARE
+result= Plastic Utensils
+| depcat: KITCHENWARE
+result= Mixing Spoon
+| depcat: KITCHENWARE - COOKWARE, FLATWARE & CUTLERY
+result= Funnel
+| depcat: KITCHENWARE
+result= Range Hood
+| depcat: APPLIANCES - MAJOR
+result= Cookie Cutter Set
+| depcat: KITCHENWARE - COOKWARE, FLATWARE & CUTLERY
+result= Skillet, Electric
+| depcat: APPLIANCES - SMALL, KITCHEN & PERSONAL CARE
+result= Food Thermometer
+| depcat: KITCHENWARE - DINNERWARE, GLASSWARE & FOOD STORAGE
+result= Food Grater
+| depcat: KITCHENWARE
+http://localhost:8983/solr/category/select?wt=json&q=%20HARDCOVER%20BOOKS%20PET%20CARE
+Original Description:  HARDCOVER BOOKS PET CARE
+result= Textbook
+| depcat: BOOKS - PROFESSIONAL, REFERENCE & TEXTBOOK
+result= Book Hardcover
+| depcat: BOOKS - HARDCOVER, PAPERBACK & MAGAZINE
+result= Small Pet - Books
+| depcat: BOOKS - HARDCOVER, PAPERBACK & MAGAZINE
+result= Magazine Rack
+| depcat: BOOKS - HARDCOVER, PAPERBACK & MAGAZINE
+result= Book Softcover
+| depcat: BOOKS - HARDCOVER, PAPERBACK & MAGAZINE
+result= Cat - Books
+| depcat: BOOKS - HARDCOVER, PAPERBACK & MAGAZINE
+result= Fish - Books
+| depcat: BOOKS - HARDCOVER, PAPERBACK & MAGAZINE
+result= Small Pet - Treats
+| depcat: PET CARE
+result= Small Pet - Cage Cleaning and Odor Control
+| depcat: PET CARE
+result= Ottoman
+| depcat: CLOCKS
+http://localhost:8983/solr/category/select?wt=json&q=%20FRENCH%20TERRY%20SHORT%20HANES
+Original Description:  FRENCH TERRY SHORT HANES
+result= Robe, Women's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Robe, Men's
+| depcat: CLOTHING - WOMEN'S
+result= School Uniform
+| depcat: CLOTHING - MEN'S
+result= Short Sleeve Shirt, Men's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Tee Shirt, Men's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Tee Shirt, Women's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Undershirt
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Undershirt, Boy's
+| depcat: CLOTHING - CHILDREN'S
+result= Shirt, Golf
+| depcat: CLOTHING - MEN'S
+result= Polo Shirt, Women's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+http://localhost:8983/solr/category/select?wt=json&q=%20DAVID%20ROBBINS%20NBA%20HOOPS%20ROOKIE%20CARD
+Original Description:  DAVID ROBBINS NBA HOOPS ROOKIE CARD
+result= Basketball Trading Cards
+| depcat: COLLECTIBLES
+result= Team Replica Jerseys
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Basketball Backboard
+| depcat: SPORTING GOODS
+result= Football Trading Cards
+| depcat: COLLECTIBLES
+result= Baseball Trading Cards
+| depcat: COLLECTIBLES
+result= Basketball, Ball
+| depcat: SPORTING GOODS
+result= Crinoline
+| depcat: CLOTHING - WOMEN'S
+result= Card Game
+| depcat: COLLECTIBLES
+result= Motor Small Engine
+| depcat: TOOLS - POWER
+result= Short Sleeve Shirt, Boy's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+http://localhost:8983/solr/category/select?wt=json&q=%20DISCARDED%20LEGO%20DIMENSIONS%20SCOOBY%20DOO%20SET
+Original Description:  DISCARDED LEGO DIMENSIONS SCOOBY DOO SET
+result= Puzzle
+| depcat: VIDEO GAMING & ELECTRONIC TOYS
+result= Vending Machine
+| depcat: VENDING
+result= Snowmobile
+| depcat: RECREATIONAL MOTOR VEHICLES
+result= Building Blocks
+| depcat: TOYS/GAMES - ADULT GAMES & EQUIPMENT
+result= Plane
+| depcat: TOYS/GAMES
+result= Jetski
+| depcat: BOATS & WATERCRAFT
+result= Table Runner
+| depcat: LINEN - BEDDING
+result= Saw, Medical
+| depcat: COMMERCIAL MEDICAL EQUIPMENT & MACHINERY
+result= Plywood Sheet
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+result= Sewing Kit
+| depcat: HOBBY AND CRAFT ITEMS
+http://localhost:8983/solr/category/select?wt=json&q=%20KOOSH%20BALL
+Original Description:  KOOSH BALL
+result= Nerf Toy
+| depcat: TOYS/GAMES - CHILDREN'S
+result= Exercise Ball
+| depcat: SPORTS AND RECREATION
+result= Canning Supplies
+| depcat: FOOD & BEVERAGE
+result= Bowling
+| depcat: SPORTS AND RECREATION
+result= Soccer Ball
+| depcat: SPORTS AND RECREATION
+result= Bocce Ball Set
+| depcat: SPORTS AND RECREATION
+result= Playground Ball
+| depcat: TOYS/GAMES - CHILDREN'S
+result= Tennis Ball
+| depcat: SPORTS AND RECREATION
+result= Auto Suspension and Steering - Ball Joint - Lower
+| depcat: AUTOMOBILE PARTS & ACCESSORIES
+result= Golf, Course Equipment
+| depcat: COMMERCIAL YARD & GARDEN POWER EQUIPMENT
+http://localhost:8983/solr/category/select?wt=json&q=%20STAR%20WARS%20STORY%20BOOK
+Original Description:  STAR WARS STORY BOOK
+result= Fantasy Collectibles
+| depcat: COLLECTIBLES
+result= Comic Book
+| depcat: COLLECTIBLES
+result= Play-Doh
+| depcat: TOYS/GAMES
+result= Bird - Books and Media
+| depcat: COLLECTIBLES
+result= Building Blocks
+| depcat: TOYS/GAMES - ADULT GAMES & EQUIPMENT
+result= Action Figure
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= X-Ray Machine
+| depcat: COMMERCIAL MEDICAL EQUIPMENT & MACHINERY
+result= Luggage, Kids
+| depcat: MOVIES, MUSIC & MEDIA
+result= Timpani
+| depcat: BOOKS - PROFESSIONAL, REFERENCE & TEXTBOOK
+result= Shirt, Boy's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+http://localhost:8983/solr/category/select?wt=json&q=%20ELECTRIC%20THROW%20BLANKET
+Original Description:  ELECTRIC THROW BLANKET
+result= Blanket
+| depcat: LINEN, BATH & BEDDING - FINE
+result= Heating Pad
+| depcat: DRUG/HEALTH/BEAUTY
+result= Baby Blankets
+| depcat: BABY & INFANT CARE
+result= Mattress Pad
+| depcat: LINEN, BATH & BEDDING - COMMON
+result= Pillow, Decorative
+| depcat: COLLECTIBLES
+result= Horse Blankets
+| depcat: LINEN - BEDDING
+result= Other Services
+| depcat: SERVICES, FEES, MISC CONTENTS RELATED
+result= Quilt Rack
+| depcat: FURNITURE
+result= Blanket Chest
+| depcat: FURNITURE - HARD/WOOD/METAL
+result= Auto Trim Accessories - Seat Cover
+| depcat: AUTOMOTIVE PARTS/ACCESSORIES
+http://localhost:8983/solr/category/select?wt=json&q=%20OZ%20CONTAINER%20TIDE
+Original Description:  OZ CONTAINER TIDE
+result= Detergent, Laundry
+| depcat: HOUSEHOLD CONSUMABLES
+result= Fabric Softener
+| depcat: HOUSEWARES
+result= Laundry Supplies
+| depcat: HOUSEHOLD CONSUMABLES
+result= Bowl Decor
+| depcat: APPAREL - HAUTE COUTURE, CUSTOM-MADE & FORMALWEAR
+result= Auto Care and Fluids - Waxes and Polishes
+| depcat: AUTOMOBILE PARTS & ACCESSORIES
+result= Salt and Pepper
+| depcat: FOOD & BEVERAGE
+result= Auto Care and Fluids - Sealants and Adhesives
+| depcat: AUTOMOBILE PARTS & ACCESSORIES
+result= Restaurant Supplies
+| depcat: KITCHENWARE
+result= Glue, Tools
+| depcat: TOOLS – HAND TOOLS/ TOOL STORAGE
+result= Joint Compound
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+http://localhost:8983/solr/category/select?wt=json&q=%20HAND%20HELD%20DIRT%20DEVIL
+Original Description:  HAND HELD DIRT DEVIL
+result= Hand Held Vacuum
+| depcat: APPLIANCES - SMALL, KITCHEN & PERSONAL CARE
+result= Steamer
+| depcat: APPLIANCES - SMALL, KITCHEN & PERSONAL CARE
+result= Vacuum
+| depcat: APPLIANCES - SMALL, KITCHEN & PERSONAL CARE
+result= Vacuum Accessory
+| depcat: APPLIANCES - MINOR
+result= Sweeper
+| depcat: CONSTRUCTION EQUIPMENT & MACHINERY
+result= Massager
+| depcat: DRUG/HEALTH/BEAUTY
+result= Truck - Pet Box
+| depcat: AUTOMOBILE PARTS & ACCESSORIES
+result= Refractory Products
+| depcat: COMMERCIAL MANUFACTURING EQUIPMENT & MACHINERY
+result= Caulk Tube
+| depcat: TOOLS - HAND TOOLS & TOOL STORAGE
+result= Putty Knife
+| depcat: TOOLS - HAND TOOLS & TOOL STORAGE
+http://localhost:8983/solr/category/select?wt=json&q=%20CHEMICALS%20FAST%20SET%20REPAIR%20MORTAR%20QUIKRETE
+Original Description:  CHEMICALS FAST SET REPAIR MORTAR QUIKRETE
+result= Concrete
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+result= Spice Grinder
+| depcat: KITCHENWARE - DINNERWARE, GLASSWARE & FOOD STORAGE
+result= Patio Umbrella
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Walking Cane
+| depcat: DRUG/HEALTH/BEAUTY
+result= Weight Set, Dumbell
+| depcat: SPORTS AND RECREATION
+result= Other Furniture
+| depcat: FURNITURE
+result= Dental Supplies, Professional
+| depcat: COMMERCIAL MEDICAL SUPPLIES
+result= Dental Practice Supplies
+| depcat: COMMERCIAL PROFESSIONAL SUPPLIES
+result= Pet Cage
+| depcat: PET CARE
+result= Science Toy
+| depcat: TOYS/GAMES - CHILDREN'S
+http://localhost:8983/solr/category/select?wt=json&q=%20PUR%20STRENGHT%20CURE%20REF%20INVOICES%20AND%20RECEIPTS%20PAGE
+Original Description:  PUR STRENGHT CURE REF INVOICES AND RECEIPTS PAGE
+http://localhost:8983/solr/category/select?wt=json&q=%20TENNIS%20SHOES
+Original Description:  TENNIS SHOES
+result= Athletic Shoes, Girl's
+| depcat: FOOTWEAR
+result= Athletic Shoes, Women's
+| depcat: FOOTWEAR
+result= Tennis Ball
+| depcat: SPORTS AND RECREATION
+result= Sneakers, Women's
+| depcat: FOOTWEAR
+result= Athletic Shoes, Infant and Toddler
+| depcat: FOOTWEAR - CHILDREN'S
+result= Sneakers, Boy's
+| depcat: FOOTWEAR - CHILDREN'S
+result= Casual Shoes, Girl's
+| depcat: FOOTWEAR - CHILDREN'S
+result= Athletic Shoes, Men's
+| depcat: FOOTWEAR
+result= Sneakers, Men's
+| depcat: FOOTWEAR
+result= Athletic Shoes, Boy's
+| depcat: FOOTWEAR - MEN'S
+http://localhost:8983/solr/category/select?wt=json&q=%20COPY%20LABELS%20CT%20UNIVERSAL
+Original Description:  COPY LABELS CT UNIVERSAL
+result= Sewing Needle
+| depcat: HOBBY AND CRAFT ITEMS
+result= Paper Clips
+| depcat: OFFICE SUPPLIES & STATIONARY
+result= Labels
+| depcat: OFFICE EQUIPMENT
+result= Label Maker and Supplies
+| depcat: OFFICE EQUIPMENT
+result= Restaurant Supplies
+| depcat: KITCHENWARE
+result= Printer Paper
+| depcat: OFFICE SUPPLIES & STATIONARY
+result= Violin
+| depcat: MUSICAL INSTRUMENTS
+result= Book Hardcover
+| depcat: BOOKS - HARDCOVER, PAPERBACK & MAGAZINE
+result= Fax Machine
+| depcat: OFFICE EQUIPMENT
+result= Vitamins
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE CONSUMABLES
+http://localhost:8983/solr/category/select?wt=json&q=%20ASSORTED%20CLEANING%20PRODUCTS
+Original Description:  ASSORTED CLEANING PRODUCTS
+result= Clean, Reset Contents
+| depcat: SERVICES, FEES, MISC CONTENTS RELATED
+result= Restaurant Food Supplies
+| depcat: COMMERCIAL RESTAURANT SUPPLIES & CONSUMABLES
+result= Squeegee
+| depcat: TOOLS - HAND TOOLS & TOOL STORAGE
+result= Dog - Collars, Leads and ID Tags
+| depcat: PHOTOGRAPHIC EQUIPMENT
+result= Toilet Brush
+| depcat: HOUSEWARES
+result= Baking Form or Mold
+| depcat: FOOD/GROCERY
+result= Gun Cleaning Kit
+| depcat: TOYS/GAMES - CHILDREN'S
+result= Bar Set Accessory
+| depcat: FOOD/GROCERY
+result= Shower Caddy
+| depcat: HOUSEWARES
+result= Fish - Marine Products
+| depcat: PET EQUIPMENT
+http://localhost:8983/solr/category/select?wt=json&q=%20BED%20SKIRT%20KING
+Original Description:  BED SKIRT KING
+result= Bed Skirt
+| depcat: LINEN, BATH & BEDDING - COMMON
+result= Martini Glass
+| depcat: KITCHENWARE - DINNERWARE, GLASSWARE & FOOD STORAGE
+result= Towel, Dish
+| depcat: LINEN, BATH & BEDDING - COMMON
+result= Skirt, Girl's
+| depcat: CLOTHING - WOMEN'S
+result= Skirt, Women's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Suit, Women's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Shorts and Skirts, Girl's
+| depcat: CLOTHING - CHILDREN'S
+result= Dresswear, Women's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Slip, Women's
+| depcat: CLOTHING - WOMEN'S
+result= Viola
+| depcat: MUSICAL INSTRUMENTS
+http://localhost:8983/solr/category/select?wt=json&q=%20ALLOWANCE%20CLOTHES%20CLEANING%20SUPPLIES
+Original Description:  ALLOWANCE CLOTHES CLEANING SUPPLIES
+result= Cleaning Rag
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Iron Ons
+| depcat: ARTS, CRAFTS & HOBBY SUPPLIES
+result= Storage Closet
+| depcat: FURNITURE - HARD/WOOD/METAL
+result= Cat - Bowls and Feeders
+| depcat: PET EQUIPMENT
+result= Glasses Cleaning Solution
+| depcat: DRUG/HEALTH/BEAUTY
+result= Auto Care and Fluids - Brushes, Sponges and Cleaning Supplies
+| depcat: AUTOMOTIVE PARTS/ACCESSORIES
+result= Clean, Box, Cleaning Supplies
+| depcat: MISCELLANEOUS
+result= Cat - Flea and Tick
+| depcat: PET CARE
+result= EKG Machine
+| depcat: MEDICAL EQUIPMENT & MACHINERY
+result= Garment Rack
+| depcat: APPLIANCES - MAJOR
+http://localhost:8983/solr/category/select?wt=json&q=%20ZIP%20CHECKBOOK%20WALLET%20THIRTY
+Original Description:  ZIP CHECKBOOK WALLET THIRTY
+result= Check Book
+| depcat: CASH, SECURITIES, CREDIT CARDS, DOCUMENTS
+result= Wallet
+| depcat: HANDBAGS, PURSES, WALLETS & ACCESSORIES
+result= Clean, Box, CD or DVD
+| depcat: SERVICES, FEES, MISC CONTENTS RELATED
+result= Laundry Bag
+| depcat: HOUSEWARES
+result= Tote Bag
+| depcat: LUGGAGE
+result= Money Clip
+| depcat: HANDBAGS/PURSES/WALLETS
+result= Marimba
+| depcat: MUSICAL INSTRUMENTS
+result= Money, Credit Card
+| depcat: CASH, SECURITIES, CREDIT CARDS, DOCUMENTS
+result= Purse, Women's
+| depcat: HANDBAGS, PURSES, WALLETS & ACCESSORIES
+result= Outdoor Lighting
+| depcat: PLANTS, SHRUBS & TREES
+http://localhost:8983/solr/category/select?wt=json&q=%20T%20SHIRT%20LINK%20AVAILABLE%20INVENTORY%20DOLCE%20GABBANA
+Original Description:  T SHIRT LINK AVAILABLE INVENTORY DOLCE GABBANA
+result= Scarf, Boy's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Guitar Slide
+| depcat: AUDIO EQUIPMENT
+result= Reptile - Snake
+| depcat: ANIMALS, PETS & LIVESTOCK
+result= Perfume
+| depcat: HANDBAGS, PURSES, WALLETS & ACCESSORIES
+result= Sunglasses
+| depcat: HANDBAGS, PURSES, WALLETS & ACCESSORIES
+result= Cologne
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE CONSUMABLES
+result= Reptile - Health Care
+| depcat: PET SUPPLIES & CONSUMABLES
+result= Boat Speakers
+| depcat: TV/VIDEO
+result= Trash Compactor
+| depcat: APPLIANCES - MAJOR
+result= Dress Shirt, Girl's
+| depcat: CLOTHING - CHILDREN'S
+http://localhost:8983/solr/category/select?wt=json&q=%20PF%20ON%20THE%20GO%20GOLDFISH%202.5Z
+Original Description:  PF ON THE GO GOLDFISH 2.5Z
+result= Fish - Feeding
+| depcat: PET SUPPLIES & CONSUMABLES
+result= Fish - Food
+| depcat: PET SUPPLIES & CONSUMABLES
+result= Fish - Pet Memorials
+| depcat: NONE
+result= Scrunchie or Elastic
+| depcat: MEDICAL & OPTICAL CARE EQUIPMENT
+result= Golf Cart
+| depcat: SPORTING GOODS
+result= Harpsichord
+| depcat: MUSICAL INSTRUMENTS
+result= Nutritional Supplement
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE CONSUMABLES
+result= Trash Bags
+| depcat: HOUSEHOLD CONSUMABLES
+result= Baby Feeding - Breast Pump
+| depcat: BABY & INFANT CARE
+result= Jack, Wall Construction
+| depcat: CONSTRUCTION EQUIPMENT & MACHINERY
+http://localhost:8983/solr/category/select?wt=json&q=%20CT%20PING%20PONG%20BALLS
+Original Description:  CT PING PONG BALLS
+result= Ping Pong Table
+| depcat: CLOTHING - WOMEN'S
+result= Ping Pong Paddle
+| depcat: TOYS/GAMES - ADULT GAMES & EQUIPMENT
+result= Cotton Balls
+| depcat: DRUG/HEALTH/BEAUTY
+result= Tennis Ball
+| depcat: SPORTS AND RECREATION
+result= Dryer Sheets, Laundry
+| depcat: HOUSEHOLD CONSUMABLES
+result= Hair Net
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE DURABLES
+result= Paper Weight
+| depcat: HOUSEWARES
+result= Racquet Ball Accessory
+| depcat: SPORTING GOODS
+result= Golf Bag
+| depcat: SPORTING GOODS
+result= Putter, Golf Club
+| depcat: SPORTS AND RECREATION
+http://localhost:8983/solr/category/select?wt=json&q=%20CASH%20BUCKET%20COINS%20X
+Original Description:  CASH BUCKET COINS X
+result= Money, Cash
+| depcat: CASH, SECURITIES, CREDIT CARDS, DOCUMENTS
+result= Coin Collection
+| depcat: COLLECTIBLES
+result= Money, Coins
+| depcat: CASH, SECURITIES, CREDIT CARDS, DOCUMENTS
+result= Flag
+| depcat: FOOD/GROCERY
+result= Money, Accounts
+| depcat: CASH/BULLION/COINS/NOTES
+result= Other Money
+| depcat: CASH/BULLION/COINS/NOTES
+result= China Cabinet
+| depcat: APPLIANCES - MAJOR
+result= Ice Bucket
+| depcat: HOUSEWARES
+result= Paint Tray
+| depcat: HOUSEKEEPING SUPPLIES
+result= Bucket, Cleaning Supplies
+| depcat: AUTOMOTIVE PARTS/ACCESSORIES
+http://localhost:8983/solr/category/select?wt=json&q=%20TIGER%20WOODS%20PG%20TOUR
+Original Description:  TIGER WOODS PG TOUR
+result= Golf Ball
+| depcat: SPORTS AND RECREATION
+result= Iron, Golf Club
+| depcat: SPORTING GOODS
+result= Putter, Golf Club
+| depcat: SPORTS AND RECREATION
+result= Wood, Golf Club
+| depcat: SPORTS AND RECREATION
+result= Lawn Mower Blades
+| depcat: OFFICE SUPPLIES & STATIONARY
+result= Wood Set, Golf Club
+| depcat: SPORTS AND RECREATION
+result= Golf Club Set
+| depcat: SPORTING GOODS
+result= Karate Uniform
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Guitar Strings
+| depcat: MUSICAL INSTRUMENTS
+result= Rangefinder
+| depcat: TOOLS – HAND TOOLS/ TOOL STORAGE
+http://localhost:8983/solr/category/select?wt=json&q=%20KING%20BED
+Original Description:  KING BED
+result= Waterbed Mattress
+| depcat: BEDS, MATTRESSES & BOX SPRINGS
+result= Bedspread
+| depcat: LINEN - BEDDING
+result= Footboard
+| depcat: BEDS, MATTRESSES & BOX SPRINGS
+result= Bed Frame
+| depcat: FURNITURE - BEDDING
+result= Bed
+| depcat: FURNITURE
+result= Mattress Cover
+| depcat: LINEN, BATH & BEDDING - COMMON
+result= Comforter
+| depcat: LINEN, BATH & BEDDING - COMMON
+result= Pillow Sleep
+| depcat: LINEN, BATH & BEDDING - COMMON
+result= Pillowcase
+| depcat: LINEN, BATH & BEDDING - COMMON
+result= Bedding Set
+| depcat: SPORTING GOODS
+http://localhost:8983/solr/category/select?wt=json&q=%20BLUSH%20COMPACT%20MAX%20FACTOR
+Original Description:  BLUSH COMPACT MAX FACTOR
+result= Blush
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE CONSUMABLES
+result= Nail Polish
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+result= Wire Brush
+| depcat: DRUG/HEALTH/BEAUTY
+result= Cake Pan
+| depcat: KITCHENWARE - COOKWARE, FLATWARE & CUTLERY
+result= Minidisc Player
+| depcat: AUDIO EQUIPMENT
+result= Drum Hardware
+| depcat: MUSICAL INSTRUMENTS
+result= Tripod
+| depcat: SPORTS AND RECREATION
+result= Baton Accessory
+| depcat: MUSICAL INSTRUMENTS
+result= CD Player
+| depcat: AUDIO EQUIPMENT
+result= Memory Card or Flash Drive
+| depcat: AUDIO EQUIPMENT
+http://localhost:8983/solr/category/select?wt=json&q=%20Sony%20LCD%20HDTV
+Original Description:  Sony LCD HDTV
+result= TV
+| depcat: TELEVISION & VIDEO EQUIPMENT
+result= Projector Lamp
+| depcat: OFFICE EQUIPMENT
+result= DVR
+| depcat: TV/VIDEO
+result= Screen Filter
+| depcat: COMPUTERS/SOFTWARE
+result= DVD Player, Portable
+| depcat: AUDIO EQUIPMENT
+result= Projector
+| depcat: TELEVISION & VIDEO EQUIPMENT
+result= Television Mount
+| depcat: ANTIQUE, VINTAGE ITEMS & FURNITURE
+result= Security Monitor
+| depcat: TV/VIDEO
+result= Tv Stand
+| depcat: TV/VIDEO
+result= Computer Monitor
+| depcat: COMPUTER
+http://localhost:8983/solr/category/select?wt=json&q=%20PLASTIC%20PLATE%20PLANTS
+Original Description:  PLASTIC PLATE PLANTS
+result= Plant
+| depcat: FOOD/GROCERY
+result= Fish - Live Plant Care
+| depcat: PET SUPPLIES & CONSUMABLES
+result= Plate, Plastic
+| depcat: KITCHENWARE
+result= Outlet Plate
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+result= Switch Plate
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+result= Salad Bowl
+| depcat: KITCHENWARE
+result= Bowl, Salad
+| depcat: KITCHENWARE
+result= Weight Set, Barbell
+| depcat: SPORTING GOODS
+result= Doll House, Accessory
+| depcat: DECORATIONS
+result= Party Supplies
+| depcat: RESTAURANT SUPPLIES
+http://localhost:8983/solr/category/select?wt=json&q=%20HERSHEY%20PARK%20MUG%20LINLEY
+Original Description:  HERSHEY PARK MUG LINLEY
+result= Thermos
+| depcat: KITCHENWARE
+result= Mugs
+| depcat: KITCHENWARE
+result= Mug, Fine China
+| depcat: FINE CHINA & CRYSTAL
+result= Beer Stein
+| depcat: KITCHENWARE - DINNERWARE, GLASSWARE & FOOD STORAGE
+result= Drink Coozy
+| depcat: HOUSEWARES
+result= Chocolate
+| depcat: FOOD & BEVERAGE
+result= Cocoa
+| depcat: FOOD/GROCERY
+result= Coffee Maker
+| depcat: APPLIANCES - SMALL, KITCHEN & PERSONAL CARE
+result= Frozen Toppings
+| depcat: FOOD & BEVERAGE
+result= Syrup
+| depcat: FOOD/GROCERY
+http://localhost:8983/solr/category/select?wt=json&q=%20X%20PLASTIC%20FRAMED%20POSTER
+Original Description:  X PLASTIC FRAMED POSTER
+result= Poster Board
+| depcat: OFFICE EQUIPMENT
+result= Non-Fine Unframed Poster
+| depcat: HOUSEWARES - LAMPS/LIGHTING
+result= Picture Frame
+| depcat: ART - DECORATIVE ART
+result= Fine Framed Print
+| depcat: ART - FINE ART
+result= Window Well
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+result= Banners and Bunting
+| depcat: AUTOMOBILE PARTS & ACCESSORIES
+result= Non-Fine Framed Picture
+| depcat: ART - DECORATIVE ART
+result= Bathroom Mirror
+| depcat: HOUSEWARES
+result= Cork Board
+| depcat: OFFICE EQUIPMENT
+result= Shadow Box
+| depcat: HOUSEWARES
+http://localhost:8983/solr/category/select?wt=json&q=%20SAMSUNG%20Galaxy%20cell
+Original Description:  SAMSUNG Galaxy cell
+result= Cell Phone
+| depcat: AUDIO EQUIPMENT
+result= Cell Phone Accessory
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Auto Trim Accessories - Antenna
+| depcat: AUTOMOTIVE PARTS/ACCESSORIES
+result= Handheld Computer
+| depcat: COMPUTER
+result= Screen Filter
+| depcat: COMPUTERS/SOFTWARE
+result= Refrigerator
+| depcat: APPLIANCES - MAJOR KITCHEN & LAUNDRY
+result= Home Theater Speakers
+| depcat: AUDIO EQUIPMENT
+result= Clothes Washer
+| depcat: APPLIANCES - MAJOR KITCHEN & LAUNDRY
+result= Baritone Horn
+| depcat: MUSICAL INSTRUMENTS
+result= Power Boat Accessory
+| depcat: BOATING EQUIPMENT & SUPPLIES
+http://localhost:8983/solr/category/select?wt=json&q=%20PACK%20TRED%20LITE%20GOLF%20SPIKES%20ITEM%20NO.%20CT%20WILSON
+Original Description:  PACK TRED LITE GOLF SPIKES ITEM NO. CT WILSON
+result= Shoes, Golf
+| depcat: FOOTWEAR
+result= Golf Umbrella
+| depcat: SPORTING GOODS
+result= Tennis Ball
+| depcat: SPORTS AND RECREATION
+result= Golf Ball
+| depcat: SPORTS AND RECREATION
+result= Folder
+| depcat: OFFICE SUPPLIES & STATIONARY
+result= Bocce Ball Set
+| depcat: SPORTS AND RECREATION
+result= Auto Electrical - Trailer Wire Connector
+| depcat: COMPUTER ACCESSORIES
+result= Lawn Aerator
+| depcat: YARD AND GARDEN
+result= Playground Ball
+| depcat: TOYS/GAMES - CHILDREN'S
+result= High Grade Paper
+| depcat: OFFICE EQUIPMENT
+http://localhost:8983/solr/category/select?wt=json&q=%20BANNERS%20JUDAICA
+Original Description:  BANNERS JUDAICA
+result= Pudding and Gelatin
+| depcat: FOOD & BEVERAGE
+result= Banners and Bunting
+| depcat: AUTOMOBILE PARTS & ACCESSORIES
+result= Commercial, Supplies
+| depcat: COMMERCIAL PROFESSIONAL SUPPLIES
+result= Pudding Pack
+| depcat: FOOD/GROCERY
+result= Silver Knife
+| depcat: KITCHENWARE
+http://localhost:8983/solr/category/select?wt=json&q=%20PASTA%20SPAGHETTI%20BARILLA
+Original Description:  PASTA SPAGHETTI BARILLA
+result= Pasta
+| depcat: FOOD/GROCERY
+result= Canned Spaghetti and Lasagna
+| depcat: FOOD/GROCERY
+result= Pasta Sauce
+| depcat: FOOD/GROCERY
+result= Canned Ravioli
+| depcat: FOOD/GROCERY
+result= Other Food
+| depcat: TOYS/GAMES - CHILDREN'S
+result= Lasagna Pan
+| depcat: KITCHENWARE
+result= Spoon, Serving
+| depcat: KITCHENWARE - COOKWARE, FLATWARE & CUTLERY
+result= Other House and Home
+| depcat: HOUSEWARES
+result= Pasta Mixes
+| depcat: FOOD/GROCERY
+result= Undershirt Women's
+| depcat: CLOTHING - WOMEN'S
+http://localhost:8983/solr/category/select?wt=json&q=%20CLOTH%20ORGANIZER%20BASKET%20SHOE%20BOX
+Original Description:  CLOTH ORGANIZER BASKET SHOE BOX
+result= Shoe Rack
+| depcat: HOUSEWARES
+result= Storage Closet
+| depcat: FURNITURE - HARD/WOOD/METAL
+result= Accessory, Boy's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Casual Shoes, Women's
+| depcat: FOOTWEAR
+result= Garment Rack
+| depcat: APPLIANCES - MAJOR
+result= Pump Shoes, Women's
+| depcat: FOOTWEAR
+result= Closet Organizer
+| depcat: HOUSEWARES
+result= Desk Accessories
+| depcat: KITCHENWARE
+result= Organ
+| depcat: AUTOSOUND EQUIP/COMMUNICATION
+result= Hamper, Laundry
+| depcat: HOUSEKEEPING SUPPLIES
+http://localhost:8983/solr/category/select?wt=json&q=%20BOOK%20HARDCOVER%20CHILDRENS%20NOVEL
+Original Description:  BOOK HARDCOVER CHILDRENS NOVEL
+result= Book Hardcover
+| depcat: BOOKS - HARDCOVER, PAPERBACK & MAGAZINE
+result= Cat - Books
+| depcat: BOOKS - HARDCOVER, PAPERBACK & MAGAZINE
+result= Magazine Rack
+| depcat: BOOKS - HARDCOVER, PAPERBACK & MAGAZINE
+result= Textbook
+| depcat: BOOKS - PROFESSIONAL, REFERENCE & TEXTBOOK
+result= Book Softcover
+| depcat: BOOKS - HARDCOVER, PAPERBACK & MAGAZINE
+result= Fish - Books
+| depcat: BOOKS - HARDCOVER, PAPERBACK & MAGAZINE
+result= Auto Powertrain - Manual Transmission
+| depcat: AUTOMOTIVE PARTS/ACCESSORIES
+result= Toys, Arts and Crafts
+| depcat: BOOKS - HARDCOVER, PAPERBACK & MAGAZINE
+result= English Horn
+| depcat: BOOKS - PROFESSIONAL, REFERENCE & TEXTBOOK
+result= Address Book
+| depcat: OFFICE SUPPLIES & STATIONARY
+http://localhost:8983/solr/category/select?wt=json&q=%20SINGLE%20RICOLA%20COUGH%20DROPS
+Original Description:  SINGLE RICOLA COUGH DROPS
+result= Medication, Non-Prescription
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE CONSUMABLES
+result= Syrup
+| depcat: FOOD/GROCERY
+result= Eyedrops
+| depcat: DRUG/HEALTH/BEAUTY
+result= Nutritional Supplement
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE CONSUMABLES
+result= Cat - Flea and Tick
+| depcat: PET CARE
+result= Small Pet - Health Care
+| depcat: PET SUPPLIES & CONSUMABLES
+result= Fish - Marine Products
+| depcat: PET EQUIPMENT
+result= Circuit Breaker
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+result= Ski Bag
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Window
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+http://localhost:8983/solr/category/select?wt=json&q=%20GHIR%20INT%20PERCENT%20MDNT%20REV%203.17Z
+Original Description:  GHIR INT PERCENT MDNT REV 3.17Z
+result= Lazy Susan
+| depcat: FURNITURE - HARD/WOOD/METAL
+result= Pet Carrier
+| depcat: PET CARE
+result= Dental Supplies, Professional
+| depcat: COMMERCIAL MEDICAL SUPPLIES
+result= Boat Propeller
+| depcat: BOATING EQUIPMENT & SUPPLIES
+result= Load Center
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+result= Dental Practice Supplies
+| depcat: COMMERCIAL PROFESSIONAL SUPPLIES
+result= Bowl Decor
+| depcat: APPAREL - HAUTE COUTURE, CUSTOM-MADE & FORMALWEAR
+result= Bathmat
+| depcat: HOUSEWARES
+result= Cleaning Fluid
+| depcat: HOUSEHOLD CONSUMABLES
+result= Truck - Rocker Panel
+| depcat: AUTOMOTIVE PARTS/ACCESSORIES
+http://localhost:8983/solr/category/select?wt=json&q=%20RUFFINO%20PROSECCO%20750ML
+Original Description:  RUFFINO PROSECCO 750ML
+result= Sparkling Wine and Champagne
+| depcat: FOOD & BEVERAGE
+result= Spirits
+| depcat: FOOD/GROCERY
+result= Decanter
+| depcat: FOOD & BEVERAGE
+result= Port and Sherry
+| depcat: FOOD & BEVERAGE
+result= Rubbing Alcohol
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE CONSUMABLES
+http://localhost:8983/solr/category/select?wt=json&q=%20EVERYDAY%20CARD
+Original Description:  EVERYDAY CARD
+result= Glasses
+| depcat: FOOD & BEVERAGE
+result= Juice
+| depcat: FOOD & BEVERAGE
+result= Cat - Stain and Odor
+| depcat: PET CARE
+result= Napkins, Paper
+| depcat: HOUSEWARES
+result= Clean, Box, Dinnerware
+| depcat: APPLIANCES - SMALL, KITCHEN & PERSONAL CARE
+result= Ready to Eat Meals
+| depcat: FOOD/GROCERY
+result= Leg warmers
+| depcat: CLOTHING - WOMEN'S
+result= Credit Card Reader
+| depcat: OFFICE EQUIPMENT
+result= Computer Memory Card Reader
+| depcat: COMPUTER ACCESSORIES
+result= PCI Card
+| depcat: COMPUTERS/SOFTWARE
+http://localhost:8983/solr/category/select?wt=json&q=%20band%2014ct%20gold%20ruby%20ring
+Original Description:  band 14ct gold ruby ring
+result= Ring
+| depcat: JEWELRY
+result= Gemstone, Diamond
+| depcat: JEWELRY
+result= Lumber, Rough
+| depcat: COMPUTER ACCESSORIES
+result= Auto Fuel System - Fuel Injector O-Ring
+| depcat: AUTOMOTIVE PARTS/ACCESSORIES
+result= Faucet Seat
+| depcat: TOOLS - HAND TOOLS & TOOL STORAGE
+result= Bulldozer Accessory
+| depcat: MOVIES, MUSIC & MEDIA
+result= Other Jewelry
+| depcat: FURNITURE
+result= Watch
+| depcat: WATCHES
+result= Boat Radio
+| depcat: AUDIO EQUIPMENT
+result= Jewelry Set, Bracelet-Ring
+| depcat: JEWELRY/WATCHES/FURS
+http://localhost:8983/solr/category/select?wt=json&q=%20TRAVEL%20SEWING%20KITS
+Original Description:  TRAVEL SEWING KITS
+result= Sewing Kit
+| depcat: HOBBY AND CRAFT ITEMS
+result= Auto Collision - Headlamp Assembly
+| depcat: AUTOMOBILE PARTS & ACCESSORIES
+result= Sewing Machine
+| depcat: APPLIANCES - SMALL, KITCHEN & PERSONAL CARE
+result= Toy, Jump Rope
+| depcat: TOYS/GAMES
+result= Auto Care and Fluids - Bed Liner Kits
+| depcat: AUTOMOTIVE PARTS/ACCESSORIES
+result= Sewing Scissors
+| depcat: HOBBY AND CRAFT ITEMS
+result= Sewing Thread
+| depcat: ARTS, CRAFTS & HOBBY SUPPLIES
+result= Sewing Needle
+| depcat: HOBBY AND CRAFT ITEMS
+result= Threader
+| depcat: ARTS, CRAFTS & HOBBY SUPPLIES
+result= Scuba Regulator
+| depcat: SPORTS AND RECREATION
+http://localhost:8983/solr/category/select?wt=json&q=%20CANKER%20AND%20MOUTH%20SORE%20PAIN%20RELIEF%20GEL%20GUM
+Original Description:  CANKER AND MOUTH SORE PAIN RELIEF GEL GUM
+http://localhost:8983/solr/category/select?wt=json&q=%20BURNED%20FROM%20SITE%20NON%20EUCLIDEAN%20GEOMETRY%20BABIES%20BABIES%20MATH%20ISBN
+Original Description:  BURNED FROM SITE NON EUCLIDEAN GEOMETRY BABIES BABIES MATH ISBN
+result= Wild Birds - Feeders
+| depcat: PET CARE
+result= Baby Diaper Pail
+| depcat: BABY & INFANT CARE
+result= Baby Walker
+| depcat: BABY CARE
+result= Baby Crib
+| depcat: BABY & INFANT CARE
+result= Baby Highchair
+| depcat: BABY & INFANT CARE
+result= Baby Feeding - Breast Pump
+| depcat: BABY & INFANT CARE
+result= Baby Bath Tub
+| depcat: TOYS/GAMES - CHILDREN'S
+result= Baby Bassinet
+| depcat: BABY CARE
+result= Infant Car Seat
+| depcat: BABY CARE
+result= Baby Mobile Toy
+| depcat: BABY CARE
+http://localhost:8983/solr/category/select?wt=json&q=%20PHOTO%20PHOTO%20NOVELTY%20KEYCHAIN%20HEART%20SHAPED
+Original Description:  PHOTO PHOTO NOVELTY KEYCHAIN HEART SHAPED
+result= Keychain
+| depcat: HANDBAGS/PURSES/WALLETS
+result= Candy Dish
+| depcat: NONE
+result= Sportswear, Girl's
+| depcat: COMMERCIAL MERCHANDISE, INVENTORY, GOODS HELD FOR SALE
+result= Air Hockey game
+| depcat: TOOLS - POWER
+result= Fireplace Screen
+| depcat: FURNITURE
+result= Barbie
+| depcat: TOYS/GAMES
+result= Light Fixture
+| depcat: APPLIANCES - MAJOR KITCHEN & LAUNDRY
+result= Lectern
+| depcat: FURNITURE - LAWN
+result= Blood Pressure Monitor
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE DURABLES
+result= Pro Audio - Reference Monitors
+| depcat: MUSICAL INSTRUMENTS
+http://localhost:8983/solr/category/select?wt=json&q=%20WATER%20INCREASE%20DUE%20SERVER%20CONSTRUCTION%20AND%20CLEANUP%20WAITING%20BILL%20FROM%20LVVWD
+Original Description:  WATER INCREASE DUE SERVER CONSTRUCTION AND CLEANUP WAITING BILL FROM LVVWD
+http://localhost:8983/solr/category/select?wt=json&q=%20COSTUME%20JEWELRY%20RINGS
+Original Description:  COSTUME JEWELRY RINGS
+result= Body Piercing Jewelry
+| depcat: JEWELRY - COSTUME
+result= Costume
+| depcat: VIDEO GAMING & ELECTRONIC TOYS
+result= Costume Jewelry
+| depcat: JEWELRY - COSTUME
+result= Earrings
+| depcat: JEWELRY
+result= Jewelry Box
+| depcat: DRUG/HEALTH/BEAUTY
+result= Brooche
+| depcat: FOOTWEAR
+result= Pretend Play Toy
+| depcat: AUTOMOBILE PARTS & ACCESSORIES
+result= Jewelry Set, Bracelet-Necklace-Ring
+| depcat: JEWELRY
+result= Ring
+| depcat: JEWELRY
+result= Pendant, Jewelry
+| depcat: MOVIES, MUSIC & MEDIA
+http://localhost:8983/solr/category/select?wt=json&q=%20POCKET%20KNIVES
+Original Description:  POCKET KNIVES
+result= Pocket Knife
+| depcat: TOOLS - HAND TOOLS & TOOL STORAGE
+result= Scuba Knives
+| depcat: SPORTS AND RECREATION
+result= Knife
+| depcat: YARD AND GARDEN
+result= Hunting Knife
+| depcat: KITCHENWARE - COOKWARE, FLATWARE & CUTLERY
+result= Utility Knife
+| depcat: TOOLS – HAND TOOLS/ TOOL STORAGE
+result= Lockback Knife
+| depcat: TOOLS – HAND TOOLS/ TOOL STORAGE
+result= Steak Knife
+| depcat: FOOD & BEVERAGE
+result= Cabinet Handle
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+result= Butter Knife
+| depcat: STERLING SILVER - FLATWARE & HOLLOWARE
+result= Cutlery Set
+| depcat: KITCHENWARE - COOKWARE, FLATWARE & CUTLERY
+http://localhost:8983/solr/category/select?wt=json&q=%20CUSTOM%20FRAME%20MICHAELS
+Original Description:  CUSTOM FRAME MICHAELS
+result= Fine Oil Framed Painting
+| depcat: ART - FINE ART
+result= Picture Frame
+| depcat: ART - DECORATIVE ART
+result= Framed Photo
+| depcat: ART - DECORATIVE ART
+result= Fine Watercolor Framed Painting
+| depcat: ART - FINE ART
+result= Shadow Box
+| depcat: HOUSEWARES
+result= Artist Canvas
+| depcat: HOBBY AND CRAFT ITEMS
+result= Chalk Board
+| depcat: OFFICE EQUIPMENT
+result= Cat - Photo Gifts
+| depcat: PET EQUIPMENT
+result= Poster Board
+| depcat: OFFICE EQUIPMENT
+result= Bathroom Mirror
+| depcat: HOUSEWARES
+http://localhost:8983/solr/category/select?wt=json&q=%20WEED%20EATER
+Original Description:  WEED EATER
+result= Non-Power Lawn Trimmer
+| depcat: ANTIQUE, VINTAGE ITEMS & FURNITURE
+result= Power Lawn Trimmer
+| depcat: YARD & GARDEN POWER EQUIPMENT
+result= Power Hedge Trimmer
+| depcat: YARD & GARDEN POWER EQUIPMENT
+result= Power Brush Trimmer
+| depcat: YARD, GARDEN & OUTDOOR LIVING
+result= Lawn Mower Accessory
+| depcat: AUTOMOTIVE PARTS/ACCESSORIES
+result= Push Lawn Mower
+| depcat: YARD, GARDEN & OUTDOOR LIVING
+result= Other Lawn and Garden
+| depcat: HOUSEKEEPING SUPPLIES
+result= Hedge Trimmer Attachments
+| depcat: YARD AND GARDEN
+result= Leaf Blower
+| depcat: YARD & GARDEN POWER EQUIPMENT
+result= Cultivator
+| depcat: TOOLS - POWER
+http://localhost:8983/solr/category/select?wt=json&q=%20NATURE%20ORG%20CRANBERRY%204Z
+Original Description:  NATURE ORG CRANBERRY 4Z
+result= Dried Fruits and Nuts
+| depcat: FOOD & BEVERAGE
+result= Pool Pump
+| depcat: SPORTS AND RECREATION
+result= Auto Engine - Oil Temperature Switch
+| depcat: AUTOMOBILE PARTS & ACCESSORIES
+result= Cornet
+| depcat: MUSICAL INSTRUMENTS
+result= Asian - Sauces
+| depcat: FOOD/GROCERY
+result= Sauces and Marinades
+| depcat: FOOD & BEVERAGE
+result= Juice
+| depcat: FOOD & BEVERAGE
+result= Wild Birds - Accessories
+| depcat: PET CARE
+result= Breakfast Bars
+| depcat: FOOD & BEVERAGE
+result= Vitamins
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE CONSUMABLES
+http://localhost:8983/solr/category/select?wt=json&q=%20BLACK%20PERFORATED%20LEATHER%20SKULL%20CLUTCH%20RECEIPT%20P%20ALEXANDER%20MCQUEEN
+Original Description:  BLACK PERFORATED LEATHER SKULL CLUTCH RECEIPT P ALEXANDER MCQUEEN
+result= Scarf, Women's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Advertising Collectibles
+| depcat: COLLECTIBLES
+result= Drapes
+| depcat: WINDOW TREATMENTS
+result= Welding Helmet
+| depcat: TOOLS - HAND TOOLS & TOOL STORAGE
+result= Trombone
+| depcat: MUSICAL INSTRUMENTS
+result= Other Collectible
+| depcat: COLLECTIBLES
+result= Wallet
+| depcat: HANDBAGS, PURSES, WALLETS & ACCESSORIES
+result= Antiques
+| depcat: TOOLS - POWER
+result= Auto Trim Accessories End Cover
+| depcat: COMMERCIAL MERCHANDISE, INVENTORY, GOODS HELD FOR SALE
+result= Auto Climate - AC Clutch
+| depcat: HANDBAGS, PURSES, WALLETS & ACCESSORIES
+http://localhost:8983/solr/category/select?wt=json&q=%20LIPSTICK
+Original Description:  LIPSTICK
+result= Lip Care
+| depcat: DRUG/HEALTH/BEAUTY
+result= Lip Gloss
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE CONSUMABLES
+result= Lip Primer
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE CONSUMABLES
+result= Nail Polish
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+result= Mace
+| depcat: HOUSEWARES
+result= Lotion
+| depcat: DRUG/HEALTH/BEAUTY
+result= Product Sample
+| depcat: COMMERCIAL MERCHANDISE, INVENTORY, GOODS HELD FOR SALE
+result= Tweezers
+| depcat: DRUG/HEALTH/BEAUTY
+http://localhost:8983/solr/category/select?wt=json&q=%20ALLOWANCE%20CHRISTMAS%20LIGHTS
+Original Description:  ALLOWANCE CHRISTMAS LIGHTS
+result= Christmas Lighting
+| depcat: DECORATIONS
+result= Night Light
+| depcat: LAMPS & LIGHTING
+result= Christmas Tree
+| depcat: AUTOMOBILE PARTS & ACCESSORIES
+result= Fine Decorations
+| depcat: ART - FINE ART
+result= Cat - Gifts and Home Decor
+| depcat: PET EQUIPMENT
+result= Hot Plate, Kitchen
+| depcat: APPLIANCES - SMALL, KITCHEN & PERSONAL CARE
+result= Garbage Disposal
+| depcat: APPLIANCES - MAJOR KITCHEN & LAUNDRY
+result= Landscape Lights
+| depcat: LAMPS & LIGHTING
+result= Hanging Lights
+| depcat: HOUSEWARES - LAMPS/LIGHTING
+result= Outdoor Lighting
+| depcat: PLANTS, SHRUBS & TREES
+http://localhost:8983/solr/category/select?wt=json&q=%20CLEAN%20WOMENS%20LEATHER%20SLIDES
+Original Description:  CLEAN WOMENS LEATHER SLIDES
+result= Horse Riding Apparel - Chaps
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Clean Services
+| depcat: SERVICES, FEES, MISC CONTENTS RELATED
+result= Projector Slide
+| depcat: TELEVISION & VIDEO EQUIPMENT
+result= Housewares
+| depcat: FURNITURE
+result= Auto Care and Fluids - Brushes, Sponges and Cleaning Supplies
+| depcat: AUTOMOTIVE PARTS/ACCESSORIES
+result= Projector Accessory
+| depcat: PHOTOGRAPHIC EQUIPMENT
+result= Microscope
+| depcat: OPTICAL EQUIPMENT
+result= Leather Coat, Men's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Business Cards
+| depcat: OFFICE EQUIPMENT
+result= Guitar Slide
+| depcat: AUDIO EQUIPMENT
+http://localhost:8983/solr/category/select?wt=json&q=%20JOHNNY%20MORRIS%20TITANIUM%20COMBO
+Original Description:  JOHNNY MORRIS TITANIUM COMBO
+result= Multimeter
+| depcat: TOOLS – HAND TOOLS/ TOOL STORAGE
+result= Baby Doorway Jumper
+| depcat: BABY & INFANT CARE
+result= Routine Auto Care - Fuel Cap
+| depcat: AUTOMOBILE PARTS & ACCESSORIES
+result= Pro DJ Case
+| depcat: COMPUTER
+result= Auto Collision - Tail Lamp Assembly
+| depcat: AUTOMOBILE PARTS & ACCESSORIES
+result= Baby Formula
+| depcat: FOOD/GROCERY
+result= Walker
+| depcat: MEDICAL & OPTICAL CARE EQUIPMENT
+result= Baby Walker
+| depcat: BABY CARE
+result= Shorts, Athletic
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Pro Audio - Fog Machine
+| depcat: MUSICAL INSTRUMENTS
+http://localhost:8983/solr/category/select?wt=json&q=
+Original Description: 
+http://localhost:8983/solr/category/select?wt=json&q=%20PLASTIC%20RECIPE%20BOX
+Original Description:  PLASTIC RECIPE BOX
+result= Index Cards
+| depcat: OFFICE SUPPLIES & STATIONARY
+result= Place Card Holder
+| depcat: KITCHENWARE - DINNERWARE, GLASSWARE & FOOD STORAGE
+result= Tea, Bags
+| depcat: FOOD/GROCERY
+result= Cocktail Glass
+| depcat: HOUSEWARES
+result= Plastic Utensils
+| depcat: KITCHENWARE
+result= File Box
+| depcat: OFFICE EQUIPMENT
+result= Outdoor Storage Box
+| depcat: YARD, GARDEN & OUTDOOR LIVING
+result= Fishing Tackle Box
+| depcat: SPORTING GOODS
+result= Auto Engine - Head Gasket
+| depcat: AUTOMOTIVE PARTS/ACCESSORIES
+result= Register
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+http://localhost:8983/solr/category/select?wt=json&q=%20PANTS%20ANN%20TAYLOR
+Original Description:  PANTS ANN TAYLOR
+result= Suit, Women's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Suitcoat, Women's
+| depcat: CLOTHING - WOMEN'S
+result= Pantsuit, Women's
+| depcat: COMMERCIAL MANUFACTURING SUPPLIES
+result= Sewing Tape Measure
+| depcat: ARTS, CRAFTS & HOBBY SUPPLIES
+result= Brooche
+| depcat: FOOTWEAR
+result= Top
+| depcat: TOYS/GAMES
+result= Silk Fabric
+| depcat: HOBBY AND CRAFT ITEMS
+result= Halter Top, Women's
+| depcat: CLOTHING - WOMEN'S
+result= Pumps
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+result= Undershirt Women's
+| depcat: CLOTHING - WOMEN'S
+http://localhost:8983/solr/category/select?wt=json&q=%20BOTTLE%20LOTION%20AVEENO
+Original Description:  BOTTLE LOTION AVEENO
+result= Baby Lotion
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE CONSUMABLES
+result= Sunscreen
+| depcat: DRUG/HEALTH/BEAUTY
+result= Lotion
+| depcat: DRUG/HEALTH/BEAUTY
+result= Baby Shampoo
+| depcat: DRUG/HEALTH/BEAUTY
+result= Aftershave
+| depcat: DRUG/HEALTH/BEAUTY
+result= Soap Dispenser
+| depcat: HOUSEWARES
+result= Shower
+| depcat: HANDBAGS/PURSES/WALLETS
+result= Horse Bathing and Coat Care
+| depcat: PET SUPPLIES & CONSUMABLES
+result= Body Wash
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE CONSUMABLES
+result= Sunshield
+| depcat: AUTOMOBILE PARTS & ACCESSORIES
+http://localhost:8983/solr/category/select?wt=json&q=%20SMALL%20BOTTLE%20COCO%20MADEMOISELLE%20PERFUME%20CHANEL
+Original Description:  SMALL BOTTLE COCO MADEMOISELLE PERFUME CHANEL
+result= Perfume
+| depcat: HANDBAGS, PURSES, WALLETS & ACCESSORIES
+result= Non-Fine Decoration
+| depcat: WATCHES
+result= Shower
+| depcat: HANDBAGS/PURSES/WALLETS
+result= Baking Coconut
+| depcat: FOOD/GROCERY
+result= Advertising Collectibles
+| depcat: COLLECTIBLES
+result= Lip Gloss
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE CONSUMABLES
+result= Lip Care
+| depcat: DRUG/HEALTH/BEAUTY
+result= Chandelier
+| depcat: CLOTHING - WOMEN'S
+result= Other Collectible
+| depcat: COLLECTIBLES
+result= Work Uniform
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+http://localhost:8983/solr/category/select?wt=json&q=%20BLENDER
+Original Description:  BLENDER
+result= Blender
+| depcat: COMPUTER ACCESSORIES
+result= Commercial Sink
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+result= Marimba
+| depcat: MUSICAL INSTRUMENTS
+result= Thermos
+| depcat: KITCHENWARE
+http://localhost:8983/solr/category/select?wt=json&q=%20STAR%20WARS%20RETURN%20JEDI%20MOVIE
+Original Description:  STAR WARS RETURN JEDI MOVIE
+result= DVD
+| depcat: MOVIES, MUSIC & MEDIA
+result= Building Blocks
+| depcat: TOYS/GAMES - ADULT GAMES & EQUIPMENT
+result= Fantasy Collectibles
+| depcat: COLLECTIBLES
+result= Play-Doh
+| depcat: TOYS/GAMES
+result= Action Figure
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= X-Ray Machine
+| depcat: COMMERCIAL MEDICAL EQUIPMENT & MACHINERY
+result= Luggage, Kids
+| depcat: MOVIES, MUSIC & MEDIA
+result= Timpani
+| depcat: BOOKS - PROFESSIONAL, REFERENCE & TEXTBOOK
+result= Shirt, Boy's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Auto Fuel System - Throttle Position Sensor
+| depcat: AUTOMOBILE PARTS & ACCESSORIES
+http://localhost:8983/solr/category/select?wt=json&q=%20FINGERNAIL%20CLIPPERS%20TRIM
+Original Description:  FINGERNAIL CLIPPERS TRIM
+result= Nail File
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE DURABLES
+result= Manicure Set
+| depcat: HOUSEWARES
+result= Other Personal Effects
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE DURABLES
+result= Horse Grooming Tools
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE DURABLES
+result= Hair Trimmer
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE DURABLES
+result= Hair Clipper
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE DURABLES
+result= Dog - Grooming
+| depcat: HANDBAGS, PURSES, WALLETS & ACCESSORIES
+result= Non-Power Hedge Trimmer
+| depcat: YARD AND GARDEN
+result= Grease
+| depcat: AUTOMOTIVE PARTS/ACCESSORIES
+result= Pet Grooming
+| depcat: PET CARE
+http://localhost:8983/solr/category/select?wt=json&q=%20FT%20STRANDS%20GARLAND%20LIGHTS
+Original Description:  FT STRANDS GARLAND LIGHTS
+result= Christmas Lighting
+| depcat: DECORATIONS
+result= Hanging Lights
+| depcat: HOUSEWARES - LAMPS/LIGHTING
+result= Silver Knife
+| depcat: KITCHENWARE
+result= Flourescent Lighting
+| depcat: LAMPS & LIGHTING
+result= Spoon, Silver
+| depcat: STERLING SILVER - FLATWARE & HOLLOWARE
+result= Track Lighting
+| depcat: TOOLS – HAND TOOLS/ TOOL STORAGE
+result= Other Holiday
+| depcat: HOUSEWARES
+result= Auto Electrical - Relay - Tail Lamps
+| depcat: AUTOMOTIVE PARTS/ACCESSORIES
+result= Christmas Tree
+| depcat: AUTOMOBILE PARTS & ACCESSORIES
+result= Work Light
+| depcat: TOOLS - POWER
+http://localhost:8983/solr/category/select?wt=json&q=%20DVD%20VHS%20JVC
+Original Description:  DVD VHS JVC
+result= DVD VCR Combo
+| depcat: TV/VIDEO
+result= VCR
+| depcat: TELEVISION & VIDEO EQUIPMENT
+result= Blank VHS
+| depcat: MOVIES, MUSIC & MEDIA
+result= Blank DVD Media
+| depcat: MOVIES, MUSIC & MEDIA
+result= DVD Player
+| depcat: TELEVISION & VIDEO EQUIPMENT
+result= DVD Recorder
+| depcat: TELEVISION & VIDEO EQUIPMENT
+result= Blank Camcorder Tape
+| depcat: MOVIES, MUSIC & MEDIA
+result= VHS Video
+| depcat: MEDIA
+result= Blank Cassette Tape
+| depcat: MOVIES, MUSIC & MEDIA
+result= DVD
+| depcat: MOVIES, MUSIC & MEDIA
+http://localhost:8983/solr/category/select?wt=json&q=%20PILLOW%20CASES
+Original Description:  PILLOW CASES
+result= Pillowcase
+| depcat: LINEN, BATH & BEDDING - COMMON
+result= Jewel Cases
+| depcat: MOVIES, MUSIC & MEDIA
+result= Guitar - Bass Accessory
+| depcat: MUSICAL INSTRUMENTS
+result= Hand Gun Case
+| depcat: CLOTHING - WOMEN'S
+result= Restaurant Supplies
+| depcat: KITCHENWARE
+result= Shotgun Case
+| depcat: GUNS
+result= Pillow Sham
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Pillow Sleep
+| depcat: LINEN, BATH & BEDDING - COMMON
+result= Pillow, Decorative
+| depcat: COLLECTIBLES
+result= Bed Sheets
+| depcat: LINEN, BATH & BEDDING - COMMON
+http://localhost:8983/solr/category/select?wt=json&q=%20OFF%20LOSS%20WAGES%20CONTRACTOR%20INSTALL%20ENTRY%20DOOR
+Original Description:  OFF LOSS WAGES CONTRACTOR INSTALL ENTRY DOOR
+result= Door Lock
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+result= Door Hardware
+| depcat: AUDIO EQUIPMENT
+result= Exterior Door
+| depcat: CONSTRUCTION EQUIPMENT & MACHINERY
+result= Door Knocker
+| depcat: HOUSEWARES
+result= Dog - Gates and Doors
+| depcat: PHOTOGRAPHIC EQUIPMENT
+result= Bell Chime
+| depcat: COLLECTIBLES
+result= Stair Parts
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+result= Paper Towel Holder
+| depcat: KITCHENWARE - DINNERWARE, GLASSWARE & FOOD STORAGE
+result= Baby Food, Second
+| depcat: FOOD/GROCERY
+result= Chemistry Analyzer
+| depcat: COMMERCIAL MEDICAL EQUIPMENT & MACHINERY
+http://localhost:8983/solr/category/select?wt=json&q=%20GROUP%20SHEET%20METAL%20CUTTER
+Original Description:  GROUP SHEET METAL CUTTER
+result= Cookie Cutter
+| depcat: KITCHENWARE - COOKWARE, FLATWARE & CUTLERY
+result= Baking Sheet
+| depcat: KITCHENWARE - COOKWARE, FLATWARE & CUTLERY
+result= Stand, Musical Instrument
+| depcat: MUSICAL INSTRUMENTS
+result= Lawn Tractor Attachment
+| depcat: YARD & GARDEN POWER EQUIPMENT
+result= Shears, Power
+| depcat: TOOLS - POWER
+result= Stone Cutter
+| depcat: CONSTRUCTION EQUIPMENT & MACHINERY
+result= Snips
+| depcat: TOOLS – HAND TOOLS/ TOOL STORAGE
+result= Food Slicer
+| depcat: APPLIANCES - SMALL, KITCHEN & PERSONAL CARE
+result= Pizza Tray
+| depcat: KITCHENWARE - COOKWARE, FLATWARE & CUTLERY
+result= Hole Punch
+| depcat: OFFICE SUPPLIES
+http://localhost:8983/solr/category/select?wt=json&q=%20PHOTO%20BAKED%20BEANS
+Original Description:  PHOTO BAKED BEANS
+result= Canned Beans
+| depcat: FOOD/GROCERY
+result= Crackers, Graham
+| depcat: FOOD/GROCERY
+result= Beans
+| depcat: FOOD/GROCERY
+result= Canned Fruit
+| depcat: FOOD/GROCERY
+result= Jump Rope
+| depcat: COLLECTIBLES
+result= Sneakers, Girl's
+| depcat: FOOTWEAR - CHILDREN'S
+result= Mexican - Refried Beans
+| depcat: FOOD & BEVERAGE
+result= Tee Shirt, Infant and Toddler
+| depcat: CLOTHING - CHILDREN'S
+result= Shorts, Infant and Toddler
+| depcat: CLOTHING - CHILDREN'S
+result= Shirt, Girl's
+| depcat: CLOTHING - CHILDREN'S
+http://localhost:8983/solr/category/select?wt=json&q=%20OZ%20HYDRAULIC%20AND%20JACK%20OIL
+Original Description:  OZ HYDRAULIC AND JACK OIL
+result= Scuba Camera Underwater
+| depcat: AUTOMOBILE PARTS & ACCESSORIES
+result= Auto Powertrain - Automatic Transmission
+| depcat: AUTOMOBILE PARTS & ACCESSORIES
+result= Hydraulic Power Unit
+| depcat: TOOLS - POWER
+result= Jack, Floor
+| depcat: TOOLS - POWER
+result= Jack, Axle
+| depcat: TOOLS - HAND TOOLS & TOOL STORAGE
+http://localhost:8983/solr/category/select?wt=json&q=%20MATCHING%20TEA%20POT%20CHINA
+Original Description:  MATCHING TEA POT CHINA
+result= Tea Service
+| depcat: KITCHENWARE - DINNERWARE, GLASSWARE & FOOD STORAGE
+result= Teapot
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE CONSUMABLES
+result= Coffee Pot
+| depcat: KITCHENWARE - DINNERWARE, GLASSWARE & FOOD STORAGE
+result= Dining Room Set
+| depcat: FOOD/GROCERY
+result= Coffee Dispenser
+| depcat: KITCHENWARE - DINNERWARE, GLASSWARE & FOOD STORAGE
+result= Teacup, Fine China
+| depcat: KITCHENWARE
+result= Cup and Saucer
+| depcat: KITCHENWARE - DINNERWARE, GLASSWARE & FOOD STORAGE
+result= Planter
+| depcat: YARD AND GARDEN
+result= Coffee Maker
+| depcat: APPLIANCES - SMALL, KITCHEN & PERSONAL CARE
+result= Saucer, Fine China
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+http://localhost:8983/solr/category/select?wt=json&q=%20DRESS%20BOOTS%20WOMENS%20HIGH%20HEEL%20CRAZY%20HORSE
+Original Description:  DRESS BOOTS WOMENS HIGH HEEL CRAZY HORSE
+result= Dress Shoes, Women's
+| depcat: FOOTWEAR
+result= Boots, Women's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Pumps
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+result= Pump Shoes, Girl's
+| depcat: FOOTWEAR
+result= Pump Shoes, Women's
+| depcat: FOOTWEAR
+result= Platform Shoes, Women's
+| depcat: FOOTWEAR - WOMEN'S
+result= Horse Riding Apparel - Footwear
+| depcat: FOOTWEAR
+result= Horse Riding Apparel - Chaps
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Scarf, Women's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Horse Halters
+| depcat: SPORTING GOODS
+http://localhost:8983/solr/category/select?wt=json&q=%20CHOIR%20GOWN
+Original Description:  CHOIR GOWN
+result= Other Music and Movies
+| depcat: MOVIES, MUSIC & MEDIA
+result= Robe, Religious
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Hospital Gown
+| depcat: COMMERCIAL MEDICAL SUPPLIES
+result= Graduation Cap
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Nightgown, Girl's
+| depcat: CLOTHING - CHILDREN'S
+result= Wedding Dress, Women's
+| depcat: APPAREL - HAUTE COUTURE, CUSTOM-MADE & FORMALWEAR
+result= Nightgown, Women's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Doll Clothes
+| depcat: TOYS/GAMES
+result= Pajamas, Infant and Toddler
+| depcat: FOOTWEAR - CHILDREN'S
+result= Formal Dress, Girl's
+| depcat: APPAREL - HAUTE COUTURE, CUSTOM-MADE & FORMALWEAR
+http://localhost:8983/solr/category/select?wt=json&q=%20UNDERSHIRT%20HANES
+Original Description:  UNDERSHIRT HANES
+result= Undershirt
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Undershirt, Boy's
+| depcat: CLOTHING - CHILDREN'S
+result= Undershirt, Men's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Undershirt, Girl's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Boxer Briefs, Boy's
+| depcat: CLOTHING - MEN'S
+result= Boxer Briefs, Men's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Briefs, Boy's
+| depcat: CLOTHING - CHILDREN'S
+result= Socks, Boy's
+| depcat: CLOTHING - CHILDREN'S
+result= Short Sleeve Shirt, Men's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Panties, Girl's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+http://localhost:8983/solr/category/select?wt=json&q=%20NISN%20BOWL%20H&S%20SHRIMP%203.27Z
+Original Description:  NISN BOWL H&S SHRIMP 3.27Z
+result= Wash Basin
+| depcat: DECORATIONS
+result= Dog - Bowls and Feeders
+| depcat: PET EQUIPMENT
+result= Candy Dish
+| depcat: NONE
+result= Djembe
+| depcat: MUSICAL INSTRUMENTS
+result= Cat - Feeders and Bowls
+| depcat: PET CARE
+result= Bowl Decor
+| depcat: APPAREL - HAUTE COUTURE, CUSTOM-MADE & FORMALWEAR
+result= China Bowl
+| depcat: ANTIQUE, VINTAGE ITEMS & FURNITURE
+result= Bowl, Soup
+| depcat: KITCHENWARE
+result= Punch Bowl Set
+| depcat: KITCHENWARE
+result= Mixing Bowl
+| depcat: KITCHENWARE - DINNERWARE, GLASSWARE & FOOD STORAGE
+http://localhost:8983/solr/category/select?wt=json&q=%20PLANTER%20PLASTIC%20LARGE
+Original Description:  PLANTER PLASTIC LARGE
+result= Planter
+| depcat: YARD AND GARDEN
+result= Planter and Pots
+| depcat: TREES/SHRUBS/PLANTS
+result= Flower Pot
+| depcat: YARD, GARDEN & OUTDOOR LIVING
+result= Outdoor Umbrella Stand
+| depcat: FURNITURE - HARD/WOOD/METAL
+result= Dog - Rawhide, Bones and Chews
+| depcat: PET CARE
+result= Grille
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+result= Silk Plant
+| depcat: HOUSEWARES
+result= Artificial Plant
+| depcat: TREES/SHRUBS/PLANTS
+result= Arbor
+| depcat: FURNITURE - LAWN
+result= Storage Box, Plastic
+| depcat: HOUSEWARES
+http://localhost:8983/solr/category/select?wt=json&q=%20PERFUME%20FL.OZ%20SECRET%20DE%20VENUS%20WEIL
+Original Description:  PERFUME FL.OZ SECRET DE VENUS WEIL
+result= Perfume
+| depcat: HANDBAGS, PURSES, WALLETS & ACCESSORIES
+result= Cologne
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE CONSUMABLES
+result= Soap
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE CONSUMABLES
+result= Syrup
+| depcat: FOOD/GROCERY
+result= Razor
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE DURABLES
+result= Razor Blade
+| depcat: DRUG/HEALTH/BEAUTY
+result= Non-Fine Decoration
+| depcat: WATCHES
+result= Baking Coconut
+| depcat: FOOD/GROCERY
+result= Mold Control
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+result= Bed Ruffle
+| depcat: LINEN - BEDDING
+http://localhost:8983/solr/category/select?wt=json&q=%20BATH%20TOWEL
+Original Description:  BATH TOWEL
+result= Towel, Bath
+| depcat: LINEN, BATH & BEDDING - COMMON
+result= Baby Towel
+| depcat: BABY & INFANT CARE
+result= Towel, Hand
+| depcat: LINEN, BATH & BEDDING - COMMON
+result= Bath Fixtures
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+result= Beach Towel
+| depcat: LINEN - BEDDING
+result= Paper Towel Holder
+| depcat: KITCHENWARE - DINNERWARE, GLASSWARE & FOOD STORAGE
+result= Towel, Dish
+| depcat: LINEN, BATH & BEDDING - COMMON
+result= Towel, Wash Cloth
+| depcat: BABY CARE
+result= Towel Warmer
+| depcat: APPLIANCES - MINOR
+result= Sauna
+| depcat: HOUSEWARES
+http://localhost:8983/solr/category/select?wt=json&q=%20SHOES%20UGG
+Original Description:  SHOES UGG
+result= Slippers
+| depcat: FOOTWEAR - MEN'S
+result= Casual Shoes, Girl's
+| depcat: FOOTWEAR - CHILDREN'S
+result= Slippers, Women's
+| depcat: FOOTWEAR
+result= Boots, Women's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Sneakers, Women's
+| depcat: FOOTWEAR
+result= Shoe Protector
+| depcat: FOOTWEAR - MEN'S
+result= Boots, Girl's
+| depcat: FOOTWEAR
+result= Boots, Infant and Toddler
+| depcat: FOOTWEAR
+result= Trumpet
+| depcat: MUSICAL INSTRUMENTS
+result= Hand Gun Accessory
+| depcat: FIREARMS, WEAPONS & ACCESSORIES
+http://localhost:8983/solr/category/select?wt=json&q=%20NOURISHING%20LOTION%20OZ%20DESERT%20BREEZE
+Original Description:  NOURISHING LOTION OZ DESERT BREEZE
+result= Lotion
+| depcat: DRUG/HEALTH/BEAUTY
+result= Creams and Flan
+| depcat: FOOD/GROCERY
+result= Baby Lotion
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE CONSUMABLES
+result= Aftershave
+| depcat: DRUG/HEALTH/BEAUTY
+result= Sunscreen
+| depcat: DRUG/HEALTH/BEAUTY
+result= Soap Dispenser
+| depcat: HOUSEWARES
+result= Soap
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE CONSUMABLES
+result= Shower
+| depcat: HANDBAGS/PURSES/WALLETS
+result= Horse Bathing and Coat Care
+| depcat: PET SUPPLIES & CONSUMABLES
+result= Hair Removal
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE CONSUMABLES
+http://localhost:8983/solr/category/select?wt=json&q=%20EXTRA%20MOISTURE%20RESTORATIVE%20DAY%20CREAM%20BROAD%20SPECTRUM%20SPF%20SUNSCREEN%20REFERENCE%20STOLEN%20ARBONNE%20ARBONNE%20ITEMS%20TOTAL
+Original Description:  EXTRA MOISTURE RESTORATIVE DAY CREAM BROAD SPECTRUM SPF SUNSCREEN REFERENCE STOLEN ARBONNE ARBONNE ITEMS TOTAL
+result= Sunscreen
+| depcat: DRUG/HEALTH/BEAUTY
+result= Product Sample
+| depcat: COMMERCIAL MERCHANDISE, INVENTORY, GOODS HELD FOR SALE
+result= Cosmetic Face Mask
+| depcat: MISCELLANEOUS
+result= Eye Primer
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE CONSUMABLES
+result= Pillowcase
+| depcat: LINEN, BATH & BEDDING - COMMON
+result= Arbor
+| depcat: FURNITURE - LAWN
+result= Sunshield
+| depcat: AUTOMOBILE PARTS & ACCESSORIES
+result= Bath Supplies
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE CONSUMABLES
+result= Lip Balm
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE CONSUMABLES
+result= Creams and Flan
+| depcat: FOOD/GROCERY
+http://localhost:8983/solr/category/select?wt=json&q=%20DON%E2%80%99T%20WASTE%20LIFE
+Original Description:  DON’T WASTE LIFE
+result= Wastebasket
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Pressure Balancing Valve
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+result= Auto Engine - Oil Pan
+| depcat: AUTOMOBILE PARTS & ACCESSORIES
+result= Trash Barrel
+| depcat: HOUSEWARES
+result= Tub Drain
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+result= Garbage Disposal
+| depcat: APPLIANCES - MAJOR KITCHEN & LAUNDRY
+result= Baby Diaper Pail
+| depcat: BABY & INFANT CARE
+result= Basket, Laundry
+| depcat: HOUSEWARES
+result= Life Jacket
+| depcat: SPORTING GOODS
+result= Outdoor Chair
+| depcat: FURNITURE
+http://localhost:8983/solr/category/select?wt=json&q=%20BURNED%20FROM%20SITE%20CANDLE%20HOLDERS%20WROUGHT%20IRON%20MEDIUM
+Original Description:  BURNED FROM SITE CANDLE HOLDERS WROUGHT IRON MEDIUM
+result= Fireplace Log Holder
+| depcat: KITCHENWARE
+result= Baking Rack
+| depcat: TOYS/GAMES - ADULT GAMES & EQUIPMENT
+result= Hand Warmer
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Decorative Sconce
+| depcat: HOUSEWARES
+result= Sconce, Lighting
+| depcat: LAMPS & LIGHTING
+result= Plant Stand
+| depcat: HOUSEWARES
+result= Candle Holder
+| depcat: HOUSEWARES
+result= Candle, Holiday
+| depcat: HOUSEWARES
+result= Pot Holder
+| depcat: KITCHENWARE
+result= Toothbrush holder
+| depcat: ART - FINE ART
+http://localhost:8983/solr/category/select?wt=json&q=%20HOODED%20SWEATER%20WOMEN%27S%20POLO%20JEANS%20COMPANY%20RALPH%20LAUREN
+Original Description:  HOODED SWEATER WOMEN'S POLO JEANS COMPANY RALPH LAUREN
+result= Sweater, Girl's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Sweater, Men's
+| depcat: APPAREL - HAUTE COUTURE, CUSTOM-MADE & FORMALWEAR
+result= Polo Shirt, Women's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Light Jacket, Men's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Sweater, Boy's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Vest, Men's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Polo Shirt, Boy's
+| depcat: CLOTHING - MEN'S
+result= Polo Shirt, Men's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Sweater, Infant and Toddler
+| depcat: CLOTHING - CHILDREN'S
+result= Robe, Men's
+| depcat: CLOTHING - WOMEN'S
+http://localhost:8983/solr/category/select?wt=json&q=%20BURNED%20FROM%20SITE%20CAKE%20SERVING%20SET%20SIMILAR%20PC%20OLYMPIC%20STAINLESS%20STEEL
+Original Description:  BURNED FROM SITE CAKE SERVING SET SIMILAR PC OLYMPIC STAINLESS STEEL
+result= Mixing Bowl
+| depcat: KITCHENWARE - DINNERWARE, GLASSWARE & FOOD STORAGE
+result= Mixing Spoon
+| depcat: KITCHENWARE - COOKWARE, FLATWARE & CUTLERY
+result= Spoon, Serving
+| depcat: KITCHENWARE - COOKWARE, FLATWARE & CUTLERY
+result= Flatware Set
+| depcat: KITCHENWARE - COOKWARE, FLATWARE & CUTLERY
+result= Slotted Spoon
+| depcat: KITCHENWARE - COOKWARE, FLATWARE & CUTLERY
+result= Tongs
+| depcat: KITCHENWARE - COOKWARE, FLATWARE & CUTLERY
+result= Silverware Set
+| depcat: KITCHENWARE - COOKWARE, FLATWARE & CUTLERY
+result= Servingware Bowl, Serving
+| depcat: KITCHENWARE - DINNERWARE, GLASSWARE & FOOD STORAGE
+result= Spoon Rest
+| depcat: KITCHENWARE - COOKWARE, FLATWARE & CUTLERY
+result= Clean, Box, Cookware
+| depcat: MISCELLANEOUS
+http://localhost:8983/solr/category/select?wt=json&q=%20SOFTCOVER%20BOOK%20ISBN
+Original Description:  SOFTCOVER BOOK ISBN
+result= Textbook
+| depcat: BOOKS - PROFESSIONAL, REFERENCE & TEXTBOOK
+result= Auto Powertrain - Manual Transmission
+| depcat: AUTOMOTIVE PARTS/ACCESSORIES
+result= Bird - Books and Media
+| depcat: COLLECTIBLES
+result= Book Hardcover
+| depcat: BOOKS - HARDCOVER, PAPERBACK & MAGAZINE
+result= Book Softcover
+| depcat: BOOKS - HARDCOVER, PAPERBACK & MAGAZINE
+result= Notebook
+| depcat: OFFICE SUPPLIES & STATIONARY
+result= Other Book or Magazine
+| depcat: BOOKS - HARDCOVER, PAPERBACK & MAGAZINE
+result= Address Book
+| depcat: OFFICE SUPPLIES & STATIONARY
+result= Learning Toy
+| depcat: VIDEO GAMING & ELECTRONIC TOYS
+result= Tee Shirt, Girl's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+http://localhost:8983/solr/category/select?wt=json&q=%20HEDGE%20TRIMMER%20POST-LOSS%20RECEIPT%20PAGE%20STIHL
+Original Description:  HEDGE TRIMMER POST-LOSS RECEIPT PAGE STIHL
+result= Non-Power Hedge Trimmer
+| depcat: YARD AND GARDEN
+result= Power Hedge Trimmer
+| depcat: YARD & GARDEN POWER EQUIPMENT
+result= Hedge Trimmer Attachments
+| depcat: YARD AND GARDEN
+result= Power Lawn Trimmer
+| depcat: YARD & GARDEN POWER EQUIPMENT
+result= Post-It Notes
+| depcat: OFFICE SUPPLIES & STATIONARY
+result= Multi-Purpose Clamp
+| depcat: TOOLS - HAND TOOLS & TOOL STORAGE
+result= Concertina
+| depcat: MUSICAL INSTRUMENTS
+result= Shears
+| depcat: YARD, GARDEN & OUTDOOR LIVING
+result= Power Tool, Accessory
+| depcat: TOOLS - POWER
+result= Saw, Cutoff Chop
+| depcat: TOOLS - POWER
+http://localhost:8983/solr/category/select?wt=json&q=%20RA%20SNACK%20MIX%20BARREL%2028Z
+Original Description:  RA SNACK MIX BARREL 28Z
+result= Baby Food, Snacks and Crackers
+| depcat: FOOD & BEVERAGE
+result= Pudding Pack
+| depcat: FOOD/GROCERY
+result= Crackers, Graham
+| depcat: FOOD/GROCERY
+result= Fruit Dips and Glazes
+| depcat: FOOD & BEVERAGE
+result= Snack Bars
+| depcat: FOOD/GROCERY
+result= Baby Bottle Accessory
+| depcat: BABY CARE
+result= Pretzels
+| depcat: FOOD/GROCERY
+result= Horse Supplements - Muscle Builders and Weight Gain
+| depcat: PET CARE
+result= Food Storage Bags
+| depcat: KITCHENWARE
+result= Vending Machine
+| depcat: VENDING
+http://localhost:8983/solr/category/select?wt=json&q=%20BURNED%20FROM%20SITE%20FOLDING%20TABLES
+Original Description:  BURNED FROM SITE FOLDING TABLES
+result= Truck - Tailgate Net
+| depcat: AUTOMOBILE PARTS & ACCESSORIES
+result= Cutting Table
+| depcat: TOOLS - HAND TOOLS & TOOL STORAGE
+result= Patio Table
+| depcat: FURNITURE
+result= Table Positioning Mfg
+| depcat: NONE
+result= Sawhorse
+| depcat: TOOLS - HAND TOOLS & TOOL STORAGE
+result= Pocket Knife
+| depcat: TOOLS - HAND TOOLS & TOOL STORAGE
+result= Seating Accessory Slipcover
+| depcat: FOOTWEAR
+result= Utility Knife
+| depcat: TOOLS – HAND TOOLS/ TOOL STORAGE
+result= Ramp
+| depcat: TOOLS – HAND TOOLS/ TOOL STORAGE
+result= Baby Highchair
+| depcat: BABY & INFANT CARE
+http://localhost:8983/solr/category/select?wt=json&q=%20SUBWOOFER%20CINEMA%20SERIES%20PARADIGM
+Original Description:  SUBWOOFER CINEMA SERIES PARADIGM
+result= Subwoofer Speakers
+| depcat: AUDIO EQUIPMENT
+result= Home Theater Speakers
+| depcat: AUDIO EQUIPMENT
+result= Surround Sound Speakers
+| depcat: MOVIES, MUSIC & MEDIA
+result= Video Accessory
+| depcat: ANTIQUE, VINTAGE ITEMS & FURNITURE
+result= Home Theater System
+| depcat: TELEVISION & VIDEO EQUIPMENT
+result= Pro Audio - Reference Monitors
+| depcat: MUSICAL INSTRUMENTS
+result= Bookshelf Speakers
+| depcat: AUDIO EQUIPMENT
+result= Computer Speakers
+| depcat: AUDIO EQUIPMENT
+result= Pro Studio Monitors
+| depcat: AUDIO EQUIPMENT
+result= Camera or Camcorder Crane
+| depcat: TELEVISION & VIDEO EQUIPMENT
+http://localhost:8983/solr/category/select?wt=json&q=%20LOCK%20REPLACEMENT
+Original Description:  LOCK REPLACEMENT
+result= Keys, Car
+| depcat: PERSONAL EFFECTS & MEMORABILIA
+result= Auto Care and Fluids - Penetrant
+| depcat: AUTOMOBILE PARTS & ACCESSORIES
+result= Padlock
+| depcat: TOOLS – HAND TOOLS/ TOOL STORAGE
+result= Gun Lock
+| depcat: FIREARMS, WEAPONS & ACCESSORIES
+result= Auto Suspension and Steering - Wheel Nut Lock
+| depcat: AUTOMOBILE PARTS & ACCESSORIES
+result= Door Lock
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+result= Auto Starting - Lock - Ignition (Cylinder and Keys)
+| depcat: AUTOMOBILE PARTS & ACCESSORIES
+result= Door Hardware
+| depcat: AUDIO EQUIPMENT
+result= Mailbox
+| depcat: HOUSEWARES
+result= Safe, Fire
+| depcat: OFFICE EQUIPMENT
+http://localhost:8983/solr/category/select?wt=json&q=%20UNDERWEAR
+Original Description:  UNDERWEAR
+result= Briefs, Boy's
+| depcat: CLOTHING - CHILDREN'S
+result= Panties, Girl's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Panties, Women's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Underpants
+| depcat: TOYS/GAMES
+result= Briefs, Men's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Incontinence Protection
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE DURABLES
+result= Boxer Briefs, Boy's
+| depcat: CLOTHING - MEN'S
+result= Boxer Briefs, Men's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Thermal Underwear
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Boxers, Boy's
+| depcat: CLOTHING - CHILDREN'S
+http://localhost:8983/solr/category/select?wt=json&q=%20MENS%20FABRIC%20BELTS%20JCPENNEY
+Original Description:  MENS FABRIC BELTS JCPENNEY
+result= Belt, Men's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Belt, Boy's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Auto Engine - Timing Belt Component Kit
+| depcat: AUTOMOTIVE PARTS/ACCESSORIES
+result= Fine Linens
+| depcat: LINEN, BATH & BEDDING - FINE
+result= Shower Curtain
+| depcat: LINEN - BEDDING
+result= Sari
+| depcat: CLOTHING - WOMEN'S
+result= Sewing Glue
+| depcat: ARTS, CRAFTS & HOBBY SUPPLIES
+result= Belt, Women's
+| depcat: HANDBAGS, PURSES, WALLETS & ACCESSORIES
+result= Suspenders
+| depcat: LINEN - BEDDING
+result= Belt, Girl's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+http://localhost:8983/solr/category/select?wt=json&q=%20BEADS/%20STERLING%20SILVER%20GOLD
+Original Description:  BEADS/ STERLING SILVER GOLD
+result= Necklace
+| depcat: JEWELRY
+result= Costume Jewelry
+| depcat: JEWELRY - COSTUME
+result= Tea Service, Silver
+| depcat: KITCHENWARE - COOKWARE, FLATWARE & CUTLERY
+result= Jewelry - Anklet
+| depcat: JEWELRY/WATCHES/FURS
+result= Bangle Bracelet Set
+| depcat: JEWELRY/WATCHES/FURS
+result= Charm, Jewelry
+| depcat: JEWELRY
+result= Bracelet
+| depcat: ANTIQUE, VINTAGE ITEMS & FURNITURE
+result= Light Fixture
+| depcat: APPLIANCES - MAJOR KITCHEN & LAUNDRY
+result= Earrings
+| depcat: JEWELRY
+result= Jewelry Set, Bracelet-Ring
+| depcat: JEWELRY/WATCHES/FURS
+http://localhost:8983/solr/category/select?wt=json&q=%20FLAT%20SCREEN%20TV%20LG
+Original Description:  FLAT SCREEN TV LG
+result= TV
+| depcat: TELEVISION & VIDEO EQUIPMENT
+result= Television Mount
+| depcat: ANTIQUE, VINTAGE ITEMS & FURNITURE
+result= Screen Filter
+| depcat: COMPUTERS/SOFTWARE
+result= Computer Monitor
+| depcat: COMPUTER
+result= Remote Control
+| depcat: AUDIO EQUIPMENT
+result= TV Antennae
+| depcat: TELEVISION & VIDEO EQUIPMENT
+result= Projector Lamp
+| depcat: OFFICE EQUIPMENT
+result= Tv Stand
+| depcat: TV/VIDEO
+result= Fireplace Screen
+| depcat: FURNITURE
+result= Security Monitor
+| depcat: TV/VIDEO
+http://localhost:8983/solr/category/select?wt=json&q=%20HOVER%20BOARD%20ELECTRIC%20SCOOTER%20HANDS%20FREE%20HWSBB601-R
+Original Description:  HOVER BOARD ELECTRIC SCOOTER HANDS FREE HWSBB601-R
+result= Toy, Scooter
+| depcat: COMPUTERS/SOFTWARE
+result= Clock, Floor
+| depcat: CLOCKS
+result= Lip Care
+| depcat: DRUG/HEALTH/BEAUTY
+result= Well Pump
+| depcat: AUDIO EQUIPMENT
+result= Hand Warmer
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Skateboard
+| depcat: CLOTHING - MEN'S
+result= Piano Accessory
+| depcat: MUSICAL INSTRUMENTS
+result= Tom Tom
+| depcat: MUSICAL INSTRUMENTS
+result= Snowboard Binding
+| depcat: SPORTING GOODS
+result= Baby Feeding - Breast Pump
+| depcat: BABY & INFANT CARE
+http://localhost:8983/solr/category/select?wt=json&q=%20Parallele%20Micro%20Necklace
+Original Description:  Parallele Micro Necklace
+result= Jewelry Set, Bracelet-Necklace
+| depcat: COMMERCIAL MANUFACTURING SUPPLIES
+result= Necklace
+| depcat: JEWELRY
+result= Jewelry Set, Necklace-Ring
+| depcat: COMMERCIAL MANUFACTURING SUPPLIES
+result= Jewelry Set, Bracelet-Necklace-Ring
+| depcat: JEWELRY
+result= Pendant, Jewelry
+| depcat: MOVIES, MUSIC & MEDIA
+result= Costume Jewelry
+| depcat: JEWELRY - COSTUME
+result= Auto Engine - Crankshaft Position Sensor
+| depcat: AUTOMOBILE PARTS & ACCESSORIES
+result= Faucet Seat
+| depcat: TOOLS - HAND TOOLS & TOOL STORAGE
+result= Other Jewelry
+| depcat: FURNITURE
+result= Light Fixture
+| depcat: APPLIANCES - MAJOR KITCHEN & LAUNDRY
+http://localhost:8983/solr/category/select?wt=json&q=%20BCBG%20BLACK%20DRESS
+Original Description:  BCBG BLACK DRESS
+result= Pump Shoes, Girl's
+| depcat: FOOTWEAR
+result= Dresswear, Women's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Sandals, Women's
+| depcat: FOOTWEAR
+result= Pumps
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+result= Dress Shoes, Girl's
+| depcat: FOOTWEAR - CHILDREN'S
+result= Blazer, Women's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Auto Climate - AC Clutch
+| depcat: HANDBAGS, PURSES, WALLETS & ACCESSORIES
+result= Pump Shoes, Women's
+| depcat: FOOTWEAR
+result= Other Firearms
+| depcat: FIREARMS, WEAPONS & ACCESSORIES
+result= Bird - Bedding and Litter
+| depcat: PET CARE
+http://localhost:8983/solr/category/select?wt=json&q=%20VANITY%20ORGANIZERS
+Original Description:  VANITY ORGANIZERS
+result= Storage Organizer
+| depcat: FURNITURE - HARD/WOOD/METAL
+result= Napkins, Paper
+| depcat: HOUSEWARES
+result= Bath Vanity
+| depcat: FURNITURE
+result= Slip, Women's
+| depcat: CLOTHING - WOMEN'S
+result= Panty Liner
+| depcat: DRUG/HEALTH/BEAUTY
+result= Makeup Mirror
+| depcat: TOOLS – HAND TOOLS/ TOOL STORAGE
+result= Wall Lighting
+| depcat: HOUSEWARES - LAMPS/LIGHTING
+result= Bra, Women's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Panties, Women's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+http://localhost:8983/solr/category/select?wt=json&q=%20MENS%20POLO%20SHIRT%20MICHAEL%20KORS
+Original Description:  MENS POLO SHIRT MICHAEL KORS
+result= Dress Shirt, Boy's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Wallet
+| depcat: HANDBAGS, PURSES, WALLETS & ACCESSORIES
+result= Suit, Men's
+| depcat: JEWELRY
+result= Scarf, Women's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Watch
+| depcat: WATCHES
+result= Blazer, Boy's
+| depcat: CLOTHING - CHILDREN'S
+result= Reptile - Aquatic Turtle
+| depcat: ANIMALS, PETS & LIVESTOCK
+result= Loafers, Boy's
+| depcat: FOOTWEAR
+result= Romper, Women's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Sandals, Boy's
+| depcat: FOOTWEAR - CHILDREN'S
+http://localhost:8983/solr/category/select?wt=json&q=%20THROW%20PILLOWS
+Original Description:  THROW PILLOWS
+result= Pillow, Decorative
+| depcat: COLLECTIBLES
+result= Pillow Sleep
+| depcat: LINEN, BATH & BEDDING - COMMON
+result= Pillow Sham
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Blanket
+| depcat: LINEN, BATH & BEDDING - FINE
+result= Sleeper Sofa
+| depcat: FURNITURE - HARD/WOOD/METAL
+result= Pillowcase
+| depcat: LINEN, BATH & BEDDING - COMMON
+result= Baby Blankets
+| depcat: BABY & INFANT CARE
+result= Outdoor Cushion
+| depcat: LINEN, BATH & BEDDING - COMMON
+result= Heating Pad
+| depcat: DRUG/HEALTH/BEAUTY
+result= Loader Accessory
+| depcat: TOOLS - POWER
+http://localhost:8983/solr/category/select?wt=json&q=%20ITEM%20GROUP%20GAUGE%20MODIFIED%20DEER%20GUN%20AND%20SCOPE%20MOSSBERG%20395KB
+Original Description:  ITEM GROUP GAUGE MODIFIED DEER GUN AND SCOPE MOSSBERG 395KB
+result= Shotgun Scope
+| depcat: FIREARMS, WEAPONS & ACCESSORIES
+result= Rifle Accessory
+| depcat: HOUSEWARES
+result= Rifle Scope
+| depcat: GUNS
+result= Hand Gun Scope
+| depcat: GUNS
+result= Air Rifle Scope
+| depcat: FIREARMS, WEAPONS & ACCESSORIES
+result= Rifle
+| depcat: FIREARMS, WEAPONS & ACCESSORIES
+http://localhost:8983/solr/category/select?wt=json&q=%20LARGE%20GLASS%20ORNAMENT%20W/%20NATIVITY%20SCENE%20INSIDE
+Original Description:  LARGE GLASS ORNAMENT W/ NATIVITY SCENE INSIDE
+result= Nativity Set
+| depcat: DECORATIONS
+result= Christmas Ornament
+| depcat: JEWELRY
+result= Non-Fine Tapestry
+| depcat: ART
+result= Fine Watercolor Framed Painting
+| depcat: ART - FINE ART
+result= Fish - Aquarium Furniture
+| depcat: PET EQUIPMENT
+result= Crystal
+| depcat: FINE CHINA & CRYSTAL
+result= Reptile - Filters
+| depcat: PET CARE
+result= Pet Bowl
+| depcat: PET EQUIPMENT
+result= Garden Statue
+| depcat: FOOD/GROCERY
+result= Non-Fine Decoration
+| depcat: WATCHES
+http://localhost:8983/solr/category/select?wt=json&q=%20BBI%20POINTED%20FOUNDATION%20BRUSH
+Original Description:  BBI POINTED FOUNDATION BRUSH
+result= Cosmetic Powder
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE CONSUMABLES
+result= Other Health and Beauty
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE CONSUMABLES
+result= Cosmetic Kit
+| depcat: DRUG/HEALTH/BEAUTY
+result= Lip Primer
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE CONSUMABLES
+result= Brush
+| depcat: TOOLS – HAND TOOLS/ TOOL STORAGE
+result= Sewing Needle
+| depcat: HOBBY AND CRAFT ITEMS
+result= Dress Shoes, Women's
+| depcat: FOOTWEAR
+result= Fork, Silver
+| depcat: KITCHENWARE - COOKWARE, FLATWARE & CUTLERY
+result= Blush
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE CONSUMABLES
+result= Toaster Pastries
+| depcat: FOOD & BEVERAGE
+http://localhost:8983/solr/category/select?wt=json&q=%20PLASTIC%20KITCHEN%20COOKING%20UTENSILS
+Original Description:  PLASTIC KITCHEN COOKING UTENSILS
+result= Utensil Tray
+| depcat: KITCHENWARE - COOKWARE, FLATWARE & CUTLERY
+result= Spatula
+| depcat: KITCHENWARE
+result= Plastic Utensils
+| depcat: KITCHENWARE
+result= Mixing Spoon
+| depcat: KITCHENWARE - COOKWARE, FLATWARE & CUTLERY
+result= Funnel
+| depcat: KITCHENWARE
+result= Clean, Box, Kitchen Utensils
+| depcat: SERVICES, FEES, MISC CONTENTS RELATED
+result= Cookie Cutter Set
+| depcat: KITCHENWARE - COOKWARE, FLATWARE & CUTLERY
+result= Griddle
+| depcat: TOOLS - POWER
+result= Pot, Stock
+| depcat: KITCHENWARE - COOKWARE, FLATWARE & CUTLERY
+result= Range Hood
+| depcat: APPLIANCES - MAJOR
+http://localhost:8983/solr/category/select?wt=json&q=%20FT%20NYLON%20ROPE
+Original Description:  FT NYLON ROPE
+result= Rope
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+result= Hammock
+| depcat: TOOLS – HAND TOOLS/ TOOL STORAGE
+result= Waterski Accessory
+| depcat: BOATING EQUIPMENT & SUPPLIES
+result= Horse Tack - Reins
+| depcat: SPORTING GOODS
+result= Awning
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+result= Horse Leads
+| depcat: PET EQUIPMENT
+result= Auto Brakes and Traction - Brake Rotor
+| depcat: AUTOMOTIVE PARTS/ACCESSORIES
+result= Roller Chain
+| depcat: TOOLS - POWER
+result= Inflatable Toy
+| depcat: TOYS/GAMES - CHILDREN'S
+result= Flag
+| depcat: FOOD/GROCERY
+http://localhost:8983/solr/category/select?wt=json&q=%20STEEL%20TOE%20BOOTS%20BRAHMA
+Original Description:  STEEL TOE BOOTS BRAHMA
+result= Boots, Work
+| depcat: FOOTWEAR
+result= Dress Shoes, Women's
+| depcat: FOOTWEAR
+result= Scuba Boots
+| depcat: SPORTING GOODS
+result= Nail File
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE DURABLES
+result= Dress Shoes, Girl's
+| depcat: FOOTWEAR - CHILDREN'S
+result= Boat Radio
+| depcat: AUDIO EQUIPMENT
+result= Baby Body Wash
+| depcat: BABY CARE
+result= Socks, Men's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Pumps
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+result= Platform Shoes, Women's
+| depcat: FOOTWEAR - WOMEN'S
+http://localhost:8983/solr/category/select?wt=json&q=%20COOL%20SKALEY%20HAULED
+Original Description:  COOL SKALEY HAULED
+result= Wagon
+| depcat: TOYS/GAMES
+result= Whipped Cream
+| depcat: FOOD & BEVERAGE
+result= Fan
+| depcat: APPLIANCES - SMALL, KITCHEN & PERSONAL CARE
+result= Cooling Rack
+| depcat: KITCHENWARE
+result= Table Fan
+| depcat: HOBBY AND CRAFT ITEMS
+result= Frozen Toppings
+| depcat: FOOD & BEVERAGE
+result= Deep Fryer
+| depcat: APPLIANCES - SMALL, KITCHEN & PERSONAL CARE
+result= Auto Climate - Cooling Fan Switch - Radiator
+| depcat: AUTOMOTIVE PARTS/ACCESSORIES
+result= Humidifier
+| depcat: APPLIANCES - SMALL, KITCHEN & PERSONAL CARE
+result= Auto Care and Fluids - Antifreeze
+| depcat: AUTOMOTIVE PARTS/ACCESSORIES
+http://localhost:8983/solr/category/select?wt=json&q=%20POWER%20SHOT%20DIGITAL%20ELPH%204181B001AA%20CANON
+Original Description:  POWER SHOT DIGITAL ELPH 4181B001AA CANON
+result= Camera
+| depcat: CAMERA & PHOTOGRAPHIC EQUIPMENT
+result= Other Electronics
+| depcat: TOOLS - HAND TOOLS & TOOL STORAGE
+result= Camera or Camcorder Grip
+| depcat: PHOTOGRAPHIC EQUIPMENT
+result= Camera or Camcorder Lens
+| depcat: CAMERA & PHOTOGRAPHIC EQUIPMENT
+result= Camera or Camcorder Case
+| depcat: CAMERA & PHOTOGRAPHIC EQUIPMENT
+result= Computer Scanner
+| depcat: COMPUTER ACCESSORIES
+result= Camcorder
+| depcat: MEDICAL & OPTICAL CARE EQUIPMENT
+result= Camera Or Camcorder Mount or Bracket or Strap
+| depcat: HANDBAGS/PURSES/WALLETS
+result= Camera or Camcorder Flash
+| depcat: CAMERA & PHOTOGRAPHIC EQUIPMENT
+result= Shotgun Accessory
+| depcat: FIREARMS, WEAPONS & ACCESSORIES
+http://localhost:8983/solr/category/select?wt=json&q=%20GAL%20PLASTIC%20BUCKETS
+Original Description:  GAL PLASTIC BUCKETS
+result= Paint Tray
+| depcat: HOUSEKEEPING SUPPLIES
+result= Bucket, Cleaning Supplies
+| depcat: AUTOMOTIVE PARTS/ACCESSORIES
+result= Indoor Paint
+| depcat: OFFICE SUPPLIES & STATIONARY
+result= Hydraulic Fluid
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+result= Gas Can
+| depcat: TOOLS - HAND TOOLS & TOOL STORAGE
+result= Watering Container
+| depcat: HOUSEWARES
+result= Trash Barrel
+| depcat: HOUSEWARES
+result= Outdoor Storage Box
+| depcat: YARD, GARDEN & OUTDOOR LIVING
+result= Trash Bags
+| depcat: HOUSEHOLD CONSUMABLES
+result= Water Cooler
+| depcat: APPLIANCES - MAJOR
+http://localhost:8983/solr/category/select?wt=json&q=%20MENS%20SHORT%20SLEEVE%20GRAPHIC%20TSHIRTS
+Original Description:  MENS SHORT SLEEVE GRAPHIC TSHIRTS
+result= Tee Shirt, Men's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Dress Shirt, Men's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Short Sleeve Shirt, Men's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Shirt, Girl's
+| depcat: CLOTHING - CHILDREN'S
+result= Shirt, Bike
+| depcat: CLOTHING - MEN'S
+result= Shirt, Men's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Dress Shirt, Boy's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Sport Shorts, Men's
+| depcat: CLOTHING - MEN'S
+result= Shirt, Golf
+| depcat: CLOTHING - MEN'S
+result= Polo Shirt, Women's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+http://localhost:8983/solr/category/select?wt=json&q=%20BLOUSE%20MERONA
+Original Description:  BLOUSE MERONA
+result= Blouse, Girl's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Shirt or Blouse, Women's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Shirt, Girl's
+| depcat: CLOTHING - CHILDREN'S
+result= Curtains Accessory
+| depcat: LINEN - SLIP COVER/WINDOW COVERING
+result= Housewares
+| depcat: FURNITURE
+result= Romper, Women's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Specialty Ethnic Produce
+| depcat: FOOD & BEVERAGE
+result= Casual Dress, Girl's
+| depcat: CLOTHING - WOMEN'S
+result= Casual Shoes, Men's
+| depcat: FOOTWEAR
+result= Short Sleeve Shirt, Women's
+| depcat: CLOTHING - WOMEN'S
+http://localhost:8983/solr/category/select?wt=json&q=%20TRID%20ISLND%20BRYLM%20SNG
+Original Description:  TRID ISLND BRYLM SNG
+http://localhost:8983/solr/category/select?wt=json&q=%20WOMENS%20LONG%20SLEEVE%20BUTTONED%20DOWN%20BLOUSE%20SILK%20TESS%20DRESS
+Original Description:  WOMENS LONG SLEEVE BUTTONED DOWN BLOUSE SILK TESS DRESS
+result= Romper, Women's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Suit, Women's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Dress Shirt, Women's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Curtains Accessory
+| depcat: LINEN - SLIP COVER/WINDOW COVERING
+result= Short Sleeve Shirt, Women's
+| depcat: CLOTHING - WOMEN'S
+result= Dress Shirt, Boy's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Dress
+| depcat: BABY & INFANT CARE
+result= Housewares
+| depcat: FURNITURE
+result= Shirt or Blouse, Women's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Casual Dress, Girl's
+| depcat: CLOTHING - WOMEN'S
+http://localhost:8983/solr/category/select?wt=json&q=%20VIDEO%20GAME%20CASSETTE%20SONY
+Original Description:  VIDEO GAME CASSETTE SONY
+result= Blank Camcorder Tape
+| depcat: MOVIES, MUSIC & MEDIA
+result= Blank VHS
+| depcat: MOVIES, MUSIC & MEDIA
+result= Blank Cassette Tape
+| depcat: MOVIES, MUSIC & MEDIA
+result= Portable Cassette Player
+| depcat: AUDIO EQUIPMENT
+result= Voice Recorder
+| depcat: AUDIO EQUIPMENT
+result= DVD Recorder
+| depcat: TELEVISION & VIDEO EQUIPMENT
+result= Cassette Tape
+| depcat: MOVIES, MUSIC & MEDIA
+result= CD Recorder
+| depcat: AUDIO EQUIPMENT
+result= VHS Video
+| depcat: MEDIA
+result= VCR
+| depcat: TELEVISION & VIDEO EQUIPMENT
+http://localhost:8983/solr/category/select?wt=json&q=%20CANVAS%20WASTE%20BASKET
+Original Description:  CANVAS WASTE BASKET
+result= Wastebasket
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Basket, Laundry
+| depcat: HOUSEWARES
+result= Trash Barrel
+| depcat: HOUSEWARES
+result= Garbage Disposal
+| depcat: APPLIANCES - MAJOR KITCHEN & LAUNDRY
+result= Basket
+| depcat: KITCHENWARE - COOKWARE, FLATWARE & CUTLERY
+result= Pressure Balancing Valve
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+result= Auto Engine - Oil Pan
+| depcat: AUTOMOBILE PARTS & ACCESSORIES
+result= Tub Drain
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+result= Baby Diaper Pail
+| depcat: BABY & INFANT CARE
+result= Wicker Basket
+| depcat: HOUSEWARES
+http://localhost:8983/solr/category/select?wt=json&q=%20PORTABLE%20HEATER%20ELECTRIC%20DISC%20FURNACE%20PELONIS%201500WII
+Original Description:  PORTABLE HEATER ELECTRIC DISC FURNACE PELONIS 1500WII
+result= Heaters
+| depcat: APPLIANCES - MAJOR KITCHEN & LAUNDRY
+result= Space Heater
+| depcat: TV/VIDEO
+result= Auto Climate - Heater Core
+| depcat: AUTOMOBILE PARTS & ACCESSORIES
+result= Auto Climate - Radiator
+| depcat: AUTOMOBILE PARTS & ACCESSORIES
+result= Thermostat
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+result= Auto Climate - AC Condenser Fan Assembly
+| depcat: AUTOMOBILE PARTS & ACCESSORIES
+result= Furnace Heating Element
+| depcat: COMMERCIAL MANUFACTURING SUPPLIES
+result= Water Heater
+| depcat: APPLIANCES - MAJOR KITCHEN & LAUNDRY
+result= Routine Auto Care - Thermostat
+| depcat: AUTOMOBILE PARTS & ACCESSORIES
+result= Air Purifier
+| depcat: APPLIANCES - SMALL, KITCHEN & PERSONAL CARE
+http://localhost:8983/solr/category/select?wt=json&q=%20CRIB%20MOBILE
+Original Description:  CRIB MOBILE
+result= Baby Mobile Toy
+| depcat: BABY CARE
+result= Baby Crib
+| depcat: BABY & INFANT CARE
+result= Crib Mattress
+| depcat: BABY CARE
+result= Baby Crib Accessories
+| depcat: HANDBAGS/PURSES/WALLETS
+result= Cell Phone
+| depcat: AUDIO EQUIPMENT
+result= Metronome Accessory
+| depcat: HOUSEHOLD CONSUMABLES
+result= Baby Playard
+| depcat: BABY & INFANT CARE
+result= Work Bench
+| depcat: TOOLS – HAND TOOLS/ TOOL STORAGE
+result= Baby Bassinet
+| depcat: BABY CARE
+result= Drill Accessory
+| depcat: TOOLS - POWER
+http://localhost:8983/solr/category/select?wt=json&q=%20BURNED%20FROM%20SITE%20SOFTCOVER%20THE%20SECOND%20TREATISE%20ON%20CIVIL%20GOVERNMENT%20BOOKS%20PHILOSOPHY%20ASIN/ISBN
+Original Description:  BURNED FROM SITE SOFTCOVER THE SECOND TREATISE ON CIVIL GOVERNMENT BOOKS PHILOSOPHY ASIN/ISBN
+result= Textbook
+| depcat: BOOKS - PROFESSIONAL, REFERENCE & TEXTBOOK
+result= Book Softcover
+| depcat: BOOKS - HARDCOVER, PAPERBACK & MAGAZINE
+result= Book Hardcover
+| depcat: BOOKS - HARDCOVER, PAPERBACK & MAGAZINE
+result= Auto Powertrain - Manual Transmission
+| depcat: AUTOMOTIVE PARTS/ACCESSORIES
+result= Bookends
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Bird - Books and Media
+| depcat: COLLECTIBLES
+result= Fine Oil Framed Painting
+| depcat: ART - FINE ART
+result= Scale, Kitchen
+| depcat: APPLIANCES - SMALL, KITCHEN & PERSONAL CARE
+result= Outdoor Statue
+| depcat: TOYS/GAMES - CHILDREN'S
+result= Address Book
+| depcat: OFFICE SUPPLIES & STATIONARY
+http://localhost:8983/solr/category/select?wt=json&q=%20REAM%20CONSTRUCTION%20PAPER
+Original Description:  REAM CONSTRUCTION PAPER
+result= Printer Paper
+| depcat: OFFICE SUPPLIES & STATIONARY
+result= Motor Scraper
+| depcat: CONSTRUCTION EQUIPMENT & MACHINERY
+result= Sandblaster
+| depcat: COMMERCIAL CONSTRUCTION EQUIPMENT & MACHINERY
+result= Commercial, Drawing Tools
+| depcat: CONSTRUCTION SUPPLIES
+result= Scaffold
+| depcat: CONSTRUCTION EQUIPMENT & MACHINERY
+result= Contractor Calculator
+| depcat: OFFICE EQUIPMENT
+result= Projector Lens
+| depcat: TELEVISION & VIDEO EQUIPMENT
+result= Paper Towels
+| depcat: HOUSEHOLD CONSUMABLES
+result= Toilet Paper
+| depcat: HOUSEWARES
+result= Shredder
+| depcat: OFFICE EQUIPMENT
+http://localhost:8983/solr/category/select?wt=json&q=%20GRID%20BUTCHER
+Original Description:  GRID BUTCHER
+result= Butcher Block
+| depcat: KITCHENWARE - DINNERWARE, GLASSWARE & FOOD STORAGE
+result= Butcher Knife
+| depcat: TOOLS - HAND TOOLS & TOOL STORAGE
+result= Knee Brace
+| depcat: MEDICAL SUPPLIES - COMMERCIAL
+result= Cutlery Set
+| depcat: KITCHENWARE - COOKWARE, FLATWARE & CUTLERY
+result= Pot Rack Hardware
+| depcat: KITCHENWARE
+result= Meat Slicer
+| depcat: APPLIANCES - SMALL, KITCHEN & PERSONAL CARE
+result= Kitchen Cart
+| depcat: FURNITURE
+result= Screed, Power
+| depcat: COMMERCIAL CONSTRUCTION EQUIPMENT & MACHINERY
+result= Tie, Men's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Dinner Sausage
+| depcat: FOOD & BEVERAGE
+http://localhost:8983/solr/category/select?wt=json&q=%20MUSIC%20CD
+Original Description:  MUSIC CD
+result= Cd
+| depcat: MOVIES, MUSIC & MEDIA
+result= Music Software
+| depcat: MUSICAL INSTRUMENTS
+result= Other Music and Movies
+| depcat: MOVIES, MUSIC & MEDIA
+result= Manuscript
+| depcat: PERSONAL EFFECTS & MEMORABILIA
+result= Stereo Shelf System
+| depcat: AUDIO EQUIPMENT
+result= Pro Audio - Recorder Multitrack
+| depcat: MEDIA
+result= Ukulele
+| depcat: PET CARE
+result= Sky Diving Gear
+| depcat: SPORTING GOODS
+result= PA Speakers
+| depcat: MUSICAL INSTRUMENTS
+result= Lyre
+| depcat: MUSICAL INSTRUMENTS
+http://localhost:8983/solr/category/select?wt=json&q=%20SHORT%20SLEEVE%20BLOUSE%20WOMEN%27S%20GERIC
+Original Description:  SHORT SLEEVE BLOUSE WOMEN'S GERIC
+result= Short Sleeve Shirt, Women's
+| depcat: CLOTHING - WOMEN'S
+result= Blouse, Girl's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Casual Dress, Girl's
+| depcat: CLOTHING - WOMEN'S
+result= Shirt, Girl's
+| depcat: CLOTHING - CHILDREN'S
+result= Curtains Accessory
+| depcat: LINEN - SLIP COVER/WINDOW COVERING
+result= Shirt or Blouse, Women's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Romper, Women's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Suit, Women's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Condom
+| depcat: DRUG/HEALTH/BEAUTY
+result= Tee Shirt, Women's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+http://localhost:8983/solr/category/select?wt=json&q=%20PHOTO%20UNIDENTIFIED
+Original Description:  PHOTO UNIDENTIFIED
+result= Jukebox
+| depcat: AUDIO EQUIPMENT
+result= Photo Album
+| depcat: HOUSEWARES
+result= Photograph
+| depcat: PERSONAL EFFECTS & MEMORABILIA
+result= Arcade Game
+| depcat: TOYS/GAMES
+result= Photo
+| depcat: PERSONAL EFFECTS
+result= High Grade Paper
+| depcat: OFFICE EQUIPMENT
+result= Vending Machine
+| depcat: VENDING
+result= Framed Photo
+| depcat: ART - DECORATIVE ART
+result= Martini Glass
+| depcat: KITCHENWARE - DINNERWARE, GLASSWARE & FOOD STORAGE
+result= Piano Accessory
+| depcat: MUSICAL INSTRUMENTS
+http://localhost:8983/solr/category/select?wt=json&q=%20MENS%20SUITS
+Original Description:  MENS SUITS
+result= Shirt, Track
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Suit, Men's
+| depcat: JEWELRY
+result= Scuba Dry Suit
+| depcat: SPORTS AND RECREATION
+result= Sweatsuit
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Swimwear, Infant and Toddler
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Scuba Wetsuit
+| depcat: CLOTHING - MEN'S
+result= Blazer, Boy's
+| depcat: CLOTHING - CHILDREN'S
+result= Swim Trunks, Boy's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Suit, Boy's
+| depcat: CLOTHING - CHILDREN'S
+result= Ski Suit
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+http://localhost:8983/solr/category/select?wt=json&q=%20GIRLS%20PULLOVER%20NYLON%20SHORT%20SLEEVE%20CANNONDALE
+Original Description:  GIRLS PULLOVER NYLON SHORT SLEEVE CANNONDALE
+result= Short Sleeve Shirt, Girl's
+| depcat: CLOTHING - CHILDREN'S
+result= Long Sleeve Shirt, Girl's
+| depcat: CLOTHING - CHILDREN'S
+result= Sweatshirt, Girl's
+| depcat: CLOTHING - CHILDREN'S
+result= Sweatshirt, Boy's
+| depcat: CLOTHING - CHILDREN'S
+result= Short Sleeve Shirt, Infant and Toddler
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Polo Shirt, Girl's
+| depcat: CLOTHING - CHILDREN'S
+result= Long Sleeve Shirt, Infant and Toddler
+| depcat: CLOTHING - CHILDREN'S
+result= Shirt, Girl's
+| depcat: CLOTHING - CHILDREN'S
+result= Tee Shirt, Infant and Toddler
+| depcat: CLOTHING - CHILDREN'S
+result= Shorts, Infant and Toddler
+| depcat: CLOTHING - CHILDREN'S
+http://localhost:8983/solr/category/select?wt=json&q=%20PLASTIC%20REUSABLE%20MICROWAVE%20DISH%20CUPS
+Original Description:  PLASTIC REUSABLE MICROWAVE DISH CUPS
+result= Microwave Accessory
+| depcat: APPLIANCES - SMALL, KITCHEN & PERSONAL CARE
+result= Shopping Bags
+| depcat: RACKS, DISPLAYS, STANDS
+result= Dinnerware Set, Fine China
+| depcat: FINE CHINA & CRYSTAL
+result= Jar
+| depcat: KITCHENWARE - COOKWARE, FLATWARE & CUTLERY
+result= Cold Pack
+| depcat: MEDICAL EQUIPMENT & MACHINERY
+result= Cups
+| depcat: KITCHENWARE - DINNERWARE, GLASSWARE & FOOD STORAGE
+result= Measuring Cup
+| depcat: KITCHENWARE - COOKWARE, FLATWARE & CUTLERY
+result= Baby Utensils
+| depcat: BABY CARE
+result= Microwave Oven
+| depcat: APPLIANCES - SMALL, KITCHEN & PERSONAL CARE
+result= Cup, Fine China
+| depcat: KITCHENWARE
+http://localhost:8983/solr/category/select?wt=json&q=%20THUNDERBOLT%20PROJECTOR%20ADAPTER
+Original Description:  THUNDERBOLT PROJECTOR ADAPTER
+result= Plugs and Adapters
+| depcat: COMPUTER ACCESSORIES
+result= Projector
+| depcat: TELEVISION & VIDEO EQUIPMENT
+result= Projector Accessory
+| depcat: PHOTOGRAPHIC EQUIPMENT
+result= Projector Slide
+| depcat: TELEVISION & VIDEO EQUIPMENT
+result= Projector Lamp
+| depcat: OFFICE EQUIPMENT
+result= Projector Mount
+| depcat: TELEVISION & VIDEO EQUIPMENT
+result= Projector Screen
+| depcat: FURNITURE - HARD/WOOD/METAL
+result= Welder
+| depcat: TOOLS - POWER
+result= Lens Mounts, Rings and Adapters
+| depcat: CAMERA & PHOTOGRAPHIC EQUIPMENT
+result= Power Conditioner
+| depcat: COMPUTERS/SOFTWARE
+http://localhost:8983/solr/category/select?wt=json&q=%20MENS%20DRESS%20SHIRT%20CITY%20STREET
+Original Description:  MENS DRESS SHIRT CITY STREET
+result= Polo Shirt, Infant and Toddler
+| depcat: CLOTHING - CHILDREN'S
+result= Loafers, Men's
+| depcat: FOOTWEAR
+result= Dress Shirt, Boy's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Dress Shoes, Boy's
+| depcat: FOOTWEAR
+result= Shirt, Men's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Dress
+| depcat: BABY & INFANT CARE
+result= Polo Shirt, Men's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Tuxedo, Men's
+| depcat: APPAREL - HAUTE COUTURE, CUSTOM-MADE & FORMALWEAR
+result= Dress Shoes, Men's
+| depcat: FOOTWEAR
+result= Dresswear, Men's
+| depcat: CLOTHING - MEN'S
+http://localhost:8983/solr/category/select?wt=json&q=%20SOFTCOVER%20BOOK
+Original Description:  SOFTCOVER BOOK
+result= Textbook
+| depcat: BOOKS - PROFESSIONAL, REFERENCE & TEXTBOOK
+result= Book Softcover
+| depcat: BOOKS - HARDCOVER, PAPERBACK & MAGAZINE
+result= Bird - Books and Media
+| depcat: COLLECTIBLES
+result= Auto Powertrain - Manual Transmission
+| depcat: AUTOMOTIVE PARTS/ACCESSORIES
+result= Notebook
+| depcat: OFFICE SUPPLIES & STATIONARY
+result= Learning Toy
+| depcat: VIDEO GAMING & ELECTRONIC TOYS
+result= Tee Shirt, Girl's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Book Hardcover
+| depcat: BOOKS - HARDCOVER, PAPERBACK & MAGAZINE
+result= Non-Fine Framed Print
+| depcat: ART - DECORATIVE ART
+result= Money Clip
+| depcat: HANDBAGS/PURSES/WALLETS
+http://localhost:8983/solr/category/select?wt=json&q=%20CIRCULAR%20CRYSTAL%20NECKLACE
+Original Description:  CIRCULAR CRYSTAL NECKLACE
+result= Jewelry Set, Bracelet-Necklace
+| depcat: COMMERCIAL MANUFACTURING SUPPLIES
+result= Jewelry Set, Necklace-Ring
+| depcat: COMMERCIAL MANUFACTURING SUPPLIES
+result= Necklace
+| depcat: JEWELRY
+result= Saw, Circular
+| depcat: TOOLS - POWER
+result= Saw, Worm Driven
+| depcat: TOOLS - POWER
+result= Circular Saw Blade
+| depcat: TOOLS - POWER
+result= Knitting Needle
+| depcat: ARTS, CRAFTS & HOBBY SUPPLIES
+result= Saw, Scroll
+| depcat: TOOLS - POWER
+result= Auto Collision - Mirror
+| depcat: AUTOMOTIVE PARTS/ACCESSORIES
+result= Table Saw Accessory
+| depcat: TOOLS - POWER
+http://localhost:8983/solr/category/select?wt=json&q=%20LESTER%20YOUNG%20HANDBILL%20HANDBILL%20PARIS%20PAPER
+Original Description:  LESTER YOUNG HANDBILL HANDBILL PARIS PAPER
+result= Piano, Upright
+| depcat: MUSICAL INSTRUMENTS
+result= Exercise Ball
+| depcat: SPORTS AND RECREATION
+result= Other Book or Magazine
+| depcat: BOOKS - HARDCOVER, PAPERBACK & MAGAZINE
+result= Microcoagulation System
+| depcat: COMMERCIAL MEDICAL EQUIPMENT & MACHINERY
+result= Baby Oil
+| depcat: BABY CARE
+result= Effects Accessory
+| depcat: MUSICAL INSTRUMENTS
+result= Loofa
+| depcat: HOUSEHOLD CONSUMABLES
+result= Dresswear, Infant and Toddler
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Castanet
+| depcat: MUSICAL INSTRUMENTS
+result= Alto Horn
+| depcat: MUSICAL INSTRUMENTS
+http://localhost:8983/solr/category/select?wt=json&q=%20MEN%27S%20RETRO%20SHOES%20JORDANS
+Original Description:  MEN'S RETRO SHOES JORDANS
+result= Athletic Shoes, Infant and Toddler
+| depcat: FOOTWEAR - CHILDREN'S
+result= Sneakers, Men's
+| depcat: FOOTWEAR
+result= Athletic Shoes, Men's
+| depcat: FOOTWEAR
+result= Football Cleats
+| depcat: SPORTS AND RECREATION
+result= Baseball Cleats
+| depcat: SPORTS AND RECREATION
+result= Athletic Shoes, Girl's
+| depcat: FOOTWEAR
+result= Athletic Shoes, Boy's
+| depcat: FOOTWEAR - MEN'S
+result= Shoes, Football
+| depcat: FOOTWEAR
+result= Light Jacket, Men's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Dress Shoes, Men's
+| depcat: FOOTWEAR
+http://localhost:8983/solr/category/select?wt=json&q=%20PEANUTS%20GALLERY%20KEEPSAKES%20COLLECTORS%20FIGURINE%20JOE%20COOL%20AND%20FRIEND%20HALLMARK
+Original Description:  PEANUTS GALLERY KEEPSAKES COLLECTORS FIGURINE JOE COOL AND FRIEND HALLMARK
+result= Plate, Ceramic
+| depcat: ANTIQUE, VINTAGE ITEMS & FURNITURE
+http://localhost:8983/solr/category/select?wt=json&q=%20BOYS%20GLOVES
+Original Description:  BOYS GLOVES
+result= Gloves, Boy's
+| depcat: CLOTHING - CHILDREN'S
+result= Football Accessory
+| depcat: CLOTHING - CHILDREN'S
+result= Snowmobile Suit
+| depcat: CLOTHING - MEN'S
+result= Ice Hockey Accessory
+| depcat: SPORTING GOODS
+result= Ice Hockey Protective Gear
+| depcat: SPORTING GOODS
+result= Baseball Helmet
+| depcat: SPORTING GOODS
+result= Baseball Glove
+| depcat: SPORTING GOODS
+result= Shorts, Soccer
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Insulated Gloves, Infant and Toddler
+| depcat: CLOTHING - CHILDREN'S
+result= Gloves, Men's
+| depcat: KITCHENWARE - DINNERWARE, GLASSWARE & FOOD STORAGE
+http://localhost:8983/solr/category/select?wt=json&q=%20GOLD%20RING%20MEN
+Original Description:  GOLD RING MEN
+result= Ring
+| depcat: JEWELRY
+result= Other Jewelry
+| depcat: FURNITURE
+result= Gemstone, Diamond
+| depcat: JEWELRY
+result= Jewelry Set, Bracelet-Ring
+| depcat: JEWELRY/WATCHES/FURS
+result= Jewelry Set, Bracelet-Necklace-Ring
+| depcat: JEWELRY
+result= Costume Jewelry
+| depcat: JEWELRY - COSTUME
+result= Jewelry Set, Bracelet-Necklace
+| depcat: COMMERCIAL MANUFACTURING SUPPLIES
+result= Jewelry - Anklet
+| depcat: JEWELRY/WATCHES/FURS
+result= Bangle Bracelet Set
+| depcat: JEWELRY/WATCHES/FURS
+result= Jewelry Set, Necklace-Ring
+| depcat: COMMERCIAL MANUFACTURING SUPPLIES
+http://localhost:8983/solr/category/select?wt=json&q=%20DEODORANT%20DIAL
+Original Description:  DEODORANT DIAL
+result= Deodorant
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE CONSUMABLES
+result= Wine Stopper
+| depcat: KITCHENWARE
+result= Calipers
+| depcat: TOOLS – HAND TOOLS/ TOOL STORAGE
+result= Soap
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE CONSUMABLES
+result= Condom
+| depcat: DRUG/HEALTH/BEAUTY
+result= Tire Gauge
+| depcat: TOOLS - HAND TOOLS & TOOL STORAGE
+result= Ice Cream Maker
+| depcat: APPLIANCES - KITCHEN TABLE
+result= Aerator
+| depcat: YARD AND GARDEN
+result= Shaker
+| depcat: FOOD/GROCERY
+result= Auto Electrical - Dimmer Switch
+| depcat: AUTOMOBILE PARTS & ACCESSORIES
+http://localhost:8983/solr/category/select?wt=json&q=%20RAINBOW%20PRINCE%20KEN
+Original Description:  RAINBOW PRINCE KEN
+result= Vacuum
+| depcat: APPLIANCES - SMALL, KITCHEN & PERSONAL CARE
+result= Sports Memorabilia
+| depcat: COLLECTIBLES
+result= Barbie
+| depcat: TOYS/GAMES
+result= Tennis Racquet
+| depcat: SPORTING GOODS
+result= Ping Pong Paddle
+| depcat: TOYS/GAMES - ADULT GAMES & EQUIPMENT
+result= Baby Diaper Pail
+| depcat: BABY & INFANT CARE
+result= Other Baby
+| depcat: BABY CARE
+result= Garden Statue
+| depcat: FOOD/GROCERY
+result= Loom
+| depcat: ARTS, CRAFTS & HOBBY SUPPLIES
+result= Tire Gauge
+| depcat: TOOLS - HAND TOOLS & TOOL STORAGE
+http://localhost:8983/solr/category/select?wt=json&q=%20PHOTO%20MANDELA%20AND%20IDEAL%20PREPARED%20DIE%20LINK%20PROVIDED%20INVENTORY
+Original Description:  PHOTO MANDELA AND IDEAL PREPARED DIE LINK PROVIDED INVENTORY
+http://localhost:8983/solr/category/select?wt=json&q=%20LP%20RECORD%20ALBUMS%20REFERENCE%20INVENTORY%20PHOTOS%203%5CPHOTOS%20SCAN
+Original Description:  LP RECORD ALBUMS REFERENCE INVENTORY PHOTOS 3\PHOTOS SCAN
+result= Photo Album
+| depcat: HOUSEWARES
+result= Photo
+| depcat: PERSONAL EFFECTS
+result= Pro DJ Case
+| depcat: COMPUTER
+result= Tambourine
+| depcat: MUSICAL INSTRUMENTS
+result= CD Recorder
+| depcat: AUDIO EQUIPMENT
+result= Other Music and Movies
+| depcat: MOVIES, MUSIC & MEDIA
+result= Non-Fine Framed Print
+| depcat: ART - DECORATIVE ART
+result= Planter
+| depcat: YARD AND GARDEN
+result= Piano, Baby Grand
+| depcat: MUSICAL INSTRUMENTS
+result= Timbale
+| depcat: MUSICAL INSTRUMENTS
+http://localhost:8983/solr/category/select?wt=json&q=%20EYE%20DROPS
+Original Description:  EYE DROPS
+result= Eyedrops
+| depcat: DRUG/HEALTH/BEAUTY
+result= Medication, Non-Prescription
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE CONSUMABLES
+result= Nutritional Supplement
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE CONSUMABLES
+result= Cat - Flea and Tick
+| depcat: PET CARE
+result= Small Pet - Health Care
+| depcat: PET SUPPLIES & CONSUMABLES
+result= Fish - Marine Products
+| depcat: PET EQUIPMENT
+result= Eyeshadow
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE CONSUMABLES
+result= Eye Primer
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE CONSUMABLES
+result= Eyeliner
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE CONSUMABLES
+result= Eyebrow Finisher
+| depcat: DRUG, HEALTH, BEAUTY & PERSONAL CARE CONSUMABLES
+http://localhost:8983/solr/category/select?wt=json&q=%20BOYS%20ZIP%20HOODED%20JACKET%20LOGOED%20THOMAS%20THE%20TRAIN
+Original Description:  BOYS ZIP HOODED JACKET LOGOED THOMAS THE TRAIN
+result= Sweatshirt, Infant and Toddler
+| depcat: CLOTHING - CHILDREN'S
+result= Heavy Jacket, Infant and Toddler
+| depcat: CLOTHING - CHILDREN'S
+result= Heavy Jacket, Boy's
+| depcat: CLOTHING - CHILDREN'S
+result= Light Jacket, Infant and Toddler
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Sweatshirt, Boy's
+| depcat: CLOTHING - CHILDREN'S
+result= Heavy Jacket, Girl's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Sweater, Boy's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Heavy Jacket, Men's
+| depcat: CLOTHING - MEN'S
+result= Light Jacket, Girl's
+| depcat: CLOTHING - MEN'S
+result= Fur Jacket, Girl's
+| depcat: FURS
+http://localhost:8983/solr/category/select?wt=json&q=%20WOODEN%20WALL%20SHELVES%20X%20X
+Original Description:  WOODEN WALL SHELVES X X
+result= Cabinets
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+result= Shelf
+| depcat: FURNITURE
+result= Storage Rack
+| depcat: HOUSEWARES
+result= Curio Cabinet
+| depcat: FURNITURE - HARD/WOOD/METAL
+result= Storage Cabinet
+| depcat: FURNITURE & RUGS - CUSTOM & HEIRLOOM QUALITY
+result= Bookcase
+| depcat: FURNITURE
+result= Tv Stand
+| depcat: TV/VIDEO
+result= Microwave Stand
+| depcat: FURNITURE - HARD/WOOD/METAL
+result= Storage Closet
+| depcat: FURNITURE - HARD/WOOD/METAL
+result= Bookshelf
+| depcat: FURNITURE - HARD/WOOD/METAL
+http://localhost:8983/solr/category/select?wt=json&q=%20TENDERIZER%20OZ%20ADOLPH%E2%80%99S
+Original Description:  TENDERIZER OZ ADOLPH’S
+result= Meat Grinder
+| depcat: APPLIANCES - KITCHEN TABLE
+result= Meat Slicer
+| depcat: APPLIANCES - SMALL, KITCHEN & PERSONAL CARE
+result= Ready to Eat Meals
+| depcat: FOOD/GROCERY
+result= Vanilla
+| depcat: FOOD/GROCERY
+result= Cookies
+| depcat: FOOD/GROCERY
+result= Asian - Sauces
+| depcat: FOOD/GROCERY
+result= Extracts
+| depcat: FOOD/GROCERY
+result= Bread Crumbs
+| depcat: FOOD/GROCERY
+result= Baby Food, Firsts
+| depcat: FOOD & BEVERAGE
+result= Chips
+| depcat: HOUSEHOLD CONSUMABLES
+http://localhost:8983/solr/category/select?wt=json&q=%20WAG%20TRAIN%20CHKN%20JERKY%2011Z
+Original Description:  WAG TRAIN CHKN JERKY 11Z
+result= Jerky
+| depcat: FOOD/GROCERY
+result= Food Dehydrator
+| depcat: APPLIANCES - SMALL, KITCHEN & PERSONAL CARE
+result= Toy Train
+| depcat: TOYS/GAMES
+result= Toy car
+| depcat: TOYS/GAMES
+result= Christmas Accessory
+| depcat: DECORATIONS
+result= Baby Toilet
+| depcat: BABY & INFANT CARE
+result= Growth Chart
+| depcat: TOYS/GAMES - CHILDREN'S
+result= Building Blocks
+| depcat: TOYS/GAMES - ADULT GAMES & EQUIPMENT
+result= Transformer High Voltage
+| depcat: COMMERCIAL MANUFACTURING EQUIPMENT & MACHINERY
+result= Auto Electrical - Turn Signal Switch
+| depcat: AUTOMOBILE PARTS & ACCESSORIES
+http://localhost:8983/solr/category/select?wt=json&q=%20LG%20BAG%20PTWIST%20SERR%20PRINT
+Original Description:  LG BAG PTWIST SERR PRINT
+result= Artist Canvas
+| depcat: HOBBY AND CRAFT ITEMS
+result= Beanbag chair
+| depcat: FOOD & BEVERAGE
+result= Beach Towel
+| depcat: LINEN - BEDDING
+result= Djembe
+| depcat: MUSICAL INSTRUMENTS
+result= Dress Shirt, Women's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Pro Audio - Speaker Instrument
+| depcat: AUDIO EQUIPMENT
+result= Fine Framed Print
+| depcat: ART - FINE ART
+result= Non-Fine Framed Print
+| depcat: ART - DECORATIVE ART
+result= House Sign
+| depcat: HOUSEWARES
+result= Scarf, Women's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+http://localhost:8983/solr/category/select?wt=json&q=%20LG%20CHINA%20CABINET
+Original Description:  LG CHINA CABINET
+result= China Cabinet
+| depcat: APPLIANCES - MAJOR
+result= Curio Cabinet
+| depcat: FURNITURE - HARD/WOOD/METAL
+result= Hutch
+| depcat: FURNITURE - HARD/WOOD/METAL
+result= Plate, Fine China
+| depcat: FINE CHINA & CRYSTAL
+result= Buffet and Sideboard
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+result= Sandblaster
+| depcat: COMMERCIAL CONSTRUCTION EQUIPMENT & MACHINERY
+result= Sink
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+result= Range Hood
+| depcat: APPLIANCES - MAJOR
+result= Pro Audio - Speaker Instrument
+| depcat: AUDIO EQUIPMENT
+result= Cabinets
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+http://localhost:8983/solr/category/select?wt=json&q=%20MENS%20CASUAL%20SHIRT%20BUTTON%20LONG%20SLEEVE%20COLLAR%20UNION%20BAY
+Original Description:  MENS CASUAL SHIRT BUTTON LONG SLEEVE COLLAR UNION BAY
+result= Dress Shirt, Men's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Dress Shirt, Girl's
+| depcat: CLOTHING - CHILDREN'S
+result= Shirt, Men's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Dress Shirt, Boy's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Short Sleeve Shirt, Men's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Dress Shirt, Infant and Toddler
+| depcat: CLOTHING - WOMEN'S
+result= Dress Shirt, Women's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Polo Shirt, Women's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Long Sleeve Shirt, Boy's
+| depcat: CLOTHING - CHILDREN'S
+result= Shirt, Girl's
+| depcat: CLOTHING - CHILDREN'S
+http://localhost:8983/solr/category/select?wt=json&q=%20PR%20BOXING%20GLOVES%20EVERSHEILD%20EVERLAST
+Original Description:  PR BOXING GLOVES EVERSHEILD EVERLAST
+result= Boxing
+| depcat: SPORTS AND RECREATION
+result= Exercise Glove
+| depcat: SPORTING GOODS
+result= Magazine
+| depcat: BOOKS - PAPERBACK/MAGAZINE
+result= Computer Keyboard
+| depcat: COMPUTER ACCESSORIES
+result= Hernia Belt
+| depcat: DRUG/HEALTH/BEAUTY
+result= Jump Rope
+| depcat: COLLECTIBLES
+result= Weight Set, Wrist and Ankle
+| depcat: SPORTING GOODS
+result= Magazine Collection
+| depcat: COLLECTIBLES
+result= Camera Or Camcorder Mount or Bracket or Strap
+| depcat: HANDBAGS/PURSES/WALLETS
+result= Truck - Truck Toolbox
+| depcat: TOOLS – HAND TOOLS/ TOOL STORAGE
+http://localhost:8983/solr/category/select?wt=json&q=%20DIE%20CAST%20MODEL%20CAR%20SCALE%20PICKUP%20TRUCK%20SHYNE%20RODZ
+Original Description:  DIE CAST MODEL CAR SCALE PICKUP TRUCK SHYNE RODZ
+result= Toy car
+| depcat: TOYS/GAMES
+result= Auto Collision - Hood Louvre
+| depcat: AUTOMOBILE PARTS & ACCESSORIES
+result= Model Toy
+| depcat: TOYS/GAMES - CHILDREN'S
+result= Remote Control Toy
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Matchbox Car
+| depcat: TOYS/GAMES
+result= Display Case
+| depcat: RACKS, DISPLAYS, STANDS
+result= Toy Train
+| depcat: TOYS/GAMES
+result= Scale
+| depcat: APPLIANCES - SMALL, KITCHEN & PERSONAL CARE
+result= Auto Starting - Battery Cable
+| depcat: AUTOMOTIVE PARTS/ACCESSORIES
+result= Booster Car Seat
+| depcat: BABY & INFANT CARE
+http://localhost:8983/solr/category/select?wt=json&q=%20SPLT%20PEA%20BRLY%20BIG%20CU
+Original Description:  SPLT PEA BRLY BIG CU
+result= Wheelbarrow
+| depcat: SPORTS AND RECREATION
+result= Money, Notes other than Banknotes
+| depcat: FOOD & BEVERAGE
+result= Gun Safe
+| depcat: GUNS
+result= Heavy Coat, Women's
+| depcat: APPAREL, CLOTHING & ACCESSORIES
+result= Light Coat, Women's
+| depcat: CLOTHING - WOMEN'S
+result= Light Coat, Men's
+| depcat: CLOTHING - MEN'S
+result= Other Seed
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+result= Freezer
+| depcat: APPLIANCES - MAJOR KITCHEN & LAUNDRY
+result= Lawn Tractor Trailer
+| depcat: YARD & GARDEN POWER EQUIPMENT
+result= Microwave Oven
+| depcat: APPLIANCES - SMALL, KITCHEN & PERSONAL CARE
+http://localhost:8983/solr/category/select?wt=json&q=%20BURNED%20FROM%20SITE%20DINING%20ROOM%20SET%20SOLID%20OAK%20LEAF%20WINDSOR%20WINDSOR%20BACK%20BACK%20SIDE%20ARM%20CHAIRS%20X%20FT
+Original Description:  BURNED FROM SITE DINING ROOM SET SOLID OAK LEAF WINDSOR WINDSOR BACK BACK SIDE ARM CHAIRS X FT
+result= Chair Set
+| depcat: FURNITURE - HARD/WOOD/METAL
+result= Dining Room Set
+| depcat: FOOD/GROCERY
+result= Chair
+| depcat: FIREARMS, WEAPONS & ACCESSORIES
+result= Outdoor Chair
+| depcat: FURNITURE
+result= Patio Table
+| depcat: FURNITURE
+result= Table
+| depcat: FURNITURE
+result= Seating Accessory Slipcover
+| depcat: FOOTWEAR
+result= Whirlpool
+| depcat: BUILDING MATERIALS, HARDWARE, SUPPLIES
+result= China Cabinet
+| depcat: APPLIANCES - MAJOR
+result= Outdoor Cushion
+| depcat: LINEN, BATH & BEDDING - COMMON
+http://localhost:8983/solr/category/select?wt=json&q=%20WATERBED%20FRAME%20SOLID%20OAK%20DRAWER%20BASE%20AND%20AND%20TWIN%20CABINET%20HUTCH%20HEADBOARD
+Original Description:  WATERBED FRAME SOLID OAK DRAWER BASE AND AND TWIN CABINET HUTCH HEADBOARD

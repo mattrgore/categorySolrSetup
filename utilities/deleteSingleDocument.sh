@@ -1,0 +1,1 @@
+curl http://localhost:8983/solr/category/update?commit=true -H "Content-Type: text/xml" --data-binary '<delete><query>id:3785</query></delete>'
