@@ -1,14 +1,18 @@
 #Setup
 
-#for connection to SQL Server data warehouse
+##for connection to SQL Server data warehouse
+```Bash
 gem install tiny_tds
-#for Parts of Speech (POS) tagging and extraction
+```
+##for Parts of Speech (POS) tagging and extraction
+```Bash
 gem install engtagger 
-
+```
 #Usage
 
+```Bash
 ruby categorySolrSetup.rb [options]
-
+```
 options:
 
 u[Update] - Queries content item descriptions for all categories, parses most common terms, and updates solr core
